@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<datasource formatted-name='CMSA' inline='true' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection access_mode='readonly' class='hyper' dbname='GeocodingData.hyper' default-settings='yes' local-data='standard' schema='public' username='tableau_internal_user'>
+    <relation join='left' type='join'>
+      <clause type='join'>
+        <expression op='AND'>
+          <expression op='='>
+            <expression op='[CMSA].[ID]' />
+            <expression op='[LocalData].[ParentID]' />
+          </expression>
+          <expression op='='>
+            <expression op='[CMSA].[MapCode]' />
+            <expression op='[LocalData].[MapCode]' />
+          </expression>
+        </expression>
+      </clause>
+      <relation join='inner' type='join'>
+        <clause type='join'>
+          <expression op='AND'>
+            <expression op='='>
+              <expression op='[CMSA].[ID]' />
+              <expression op='[CMSASynonyms].[ParentID]' />
+            </expression>
+            <expression op='='>
+              <expression op='[CMSA].[MapCode]' />
+              <expression op='[CMSASynonyms].[MapCode]' />
+            </expression>
+          </expression>
+        </clause>
+        <relation name='CMSASynonyms' table='[public].[CMSASynonyms]' type='table' />
+        <relation name='CMSA' table='[public].[CMSA]' type='table' />
+      </relation>
+      <relation name='LocalData' table='[public].[LocalDataCMSA]' type='table' />
+    </relation>
+    <cols>
+      <map key='[CMSASynonyms_MapCode]' value='[CMSASynonyms].[MapCode]' />
+      <map key='[CMSASynonyms_ParentID]' value='[CMSASynonyms].[ParentID]' />
+      <map key='[CMSA]' value='[CMSASynonyms].[Name]' />
+      <map key='[CMSA_MapCode]' value='[CMSA].[MapCode]' />
+      <map key='[CMSA_ParentID]' value='[CMSA].[ParentID]' />
+      <map key='[Geometry (generated)]' value='[LocalData].[Geometry]' />
+      <map key='[ID]' value='[CMSA].[ID]' />
+      <map key='[IsDisplayName]' value='[CMSASynonyms].[IsDisplayName]' />
+      <map key='[Latitude (generated)]' value='[LocalData].[Latitude]' />
+      <map key='[Locale]' value='[CMSASynonyms].[Locale]' />
+      <map key='[Longitude (generated)]' value='[LocalData].[Longitude]' />
+      <map key='[MapCode]' value='[LocalData].[MapCode]' />
+      <map key='[ParentID]' value='[LocalData].[ParentID]' />
+    </cols>
+  </connection>
+  <aliases enabled='yes' />
+  <column datatype='integer' hidden='true' name='[CMSASynonyms_MapCode]' role='dimension' type='quantitative' />
+  <column aggregation='Sum' datatype='integer' name='[CMSASynonyms_ParentID]' role='dimension' type='ordinal' />
+  <column datatype='string' name='[CMSA]' role='dimension' type='nominal'>
+    <server-captions>
+      <caption locale='en_US'>CBSA/MSA</caption>
+    </server-captions>
+  </column>
+  <column datatype='integer' hidden='true' name='[CMSA_MapCode]' role='dimension' type='quantitative' />
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[CMSA_ParentID]' role='dimension' type='ordinal' />
+  <column caption='Geometry (generated)' datatype='string' name='[Geometry (generated)]' role='dimension' semantic-role='[Geographical].[Geometry]' type='nominal' />
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ID]' role='dimension' type='ordinal' />
+  <column aggregation='Avg' datatype='real' name='[Latitude (generated)]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Latitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column aggregation='Avg' datatype='real' name='[Longitude (generated)]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Longitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column datatype='integer' hidden='true' name='[MapCode]' role='dimension' type='quantitative' />
+  <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+    <calculation class='tableau' formula='1' />
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ParentID]' role='dimension' type='ordinal' />
+  <layout dim-ordering='alphabetic' dim-percentage='0.5' measure-ordering='alphabetic' measure-percentage='0.4' show-structure='true' />
+</datasource>

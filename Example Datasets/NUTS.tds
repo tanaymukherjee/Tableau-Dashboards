@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<datasource formatted-name='NUTS' inline='true' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection access_mode='readonly' class='hyper' dbname='GeocodingData.hyper' default-settings='yes' local-data='standard' schema='public' username='tableau_internal_user'>
+    <relation join='left' type='join'>
+      <clause type='join'>
+        <expression op='AND'>
+          <expression op='='>
+            <expression op='[NUTS].[ID]' />
+            <expression op='[LocalData].[ParentID]' />
+          </expression>
+          <expression op='='>
+            <expression op='[NUTS].[MapCode]' />
+            <expression op='[LocalData].[MapCode]' />
+          </expression>
+        </expression>
+      </clause>
+      <relation join='inner' type='join'>
+        <clause type='join'>
+          <expression op='AND'>
+            <expression op='='>
+              <expression op='[NUTS].[ID]' />
+              <expression op='[NUTSSynonyms].[ParentID]' />
+            </expression>
+            <expression op='='>
+              <expression op='[NUTS].[MapCode]' />
+              <expression op='[NUTSSynonyms].[MapCode]' />
+            </expression>
+          </expression>
+        </clause>
+        <relation name='NUTSSynonyms' table='[public].[NUTSSynonyms]' type='table' />
+        <relation name='NUTS' table='[public].[NUTS]' type='table' />
+      </relation>
+      <relation name='LocalData' table='[public].[LocalDataNUTS]' type='table' />
+    </relation>
+    <cols>
+      <map key='[NUTSSynonyms_MapCode]' value='[NUTSSynonyms].[MapCode]' />
+      <map key='[NUTSSynonyms_ParentID]' value='[NUTSSynonyms].[ParentID]' />
+      <map key='[NUTS_MapCode]' value='[NUTS].[MapCode]' />
+      <map key='[NUTS_Name]' value='[NUTSSynonyms].[Name]' />
+      <map key='[NUTS_ParentID]' value='[NUTS].[ParentID]' />
+      <map key='[Geometry (generated)]' value='[LocalData].[Geometry]' />
+      <map key='[ID]' value='[NUTS].[ID]' />
+      <map key='[IsDisplayName]' value='[NUTSSynonyms].[IsDisplayName]' />
+      <map key='[Latitude (generated)]' value='[LocalData].[Latitude]' />
+      <map key='[Locale]' value='[NUTSSynonyms].[Locale]' />
+      <map key='[Longitude (generated)]' value='[LocalData].[Longitude]' />
+      <map key='[MapCode]' value='[LocalData].[MapCode]' />
+      <map key='[ParentID]' value='[LocalData].[ParentID]' />
+    </cols>
+  </connection>
+  <aliases enabled='yes' />
+  <column datatype='integer' hidden='true' name='[NUTSSynonyms_MapCode]' role='dimension' type='quantitative' />
+  <column aggregation='Sum' datatype='integer' name='[NUTSSynonyms_ParentID]' role='dimension' type='ordinal' />
+  <column datatype='integer' hidden='true' name='[NUTS_MapCode]' role='dimension' type='quantitative' />
+  <column datatype='string' name='[NUTS_Name]' role='dimension' type='nominal'>
+    <server-captions>
+      <caption locale='en_US'>NUTS</caption>
+    </server-captions>
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[NUTS_ParentID]' role='dimension' type='ordinal' />
+  <column caption='Geometry (generated)' datatype='string' name='[Geometry (generated)]' role='dimension' semantic-role='[Geographical].[Geometry]' type='nominal' />
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ID]' role='dimension' type='ordinal' />
+  <column aggregation='Avg' datatype='real' name='[Latitude (generated)]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Latitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column aggregation='Avg' datatype='real' name='[Longitude (generated)]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Longitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column datatype='integer' hidden='true' name='[MapCode]' role='dimension' type='quantitative' />
+  <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+    <calculation class='tableau' formula='1' />
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ParentID]' role='dimension' type='ordinal' />
+  <layout dim-ordering='alphabetic' dim-percentage='0.5' measure-ordering='alphabetic' measure-percentage='0.4' show-structure='true' />
+</datasource>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<datasource formatted-name='Airport' inline='true' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection access_mode='readonly' class='hyper' dbname='GeocodingData.hyper' default-settings='yes' local-data='standard' schema='public' username='tableau_internal_user'>
+    <relation join='left' type='join'>
+      <clause type='join'>
+        <expression op='AND'>
+          <expression op='='>
+            <expression op='[Airport].[ID]' />
+            <expression op='[LocalData].[ParentID]' />
+          </expression>
+          <expression op='='>
+            <expression op='[Airport].[MapCode]' />
+            <expression op='[LocalData].[MapCode]' />
+          </expression>
+        </expression>
+      </clause>
+      <relation join='inner' type='join'>
+        <clause type='join'>
+          <expression op='AND'>
+            <expression op='='>
+              <expression op='[Airport].[ID]' />
+              <expression op='[AirportSynonyms].[ParentID]' />
+            </expression>
+            <expression op='='>
+              <expression op='[Airport].[MapCode]' />
+              <expression op='[AirportSynonyms].[MapCode]' />
+            </expression>
+          </expression>
+        </clause>
+        <relation name='AirportSynonyms' table='[public].[AirportSynonyms]' type='table' />
+        <relation name='Airport' table='[public].[Airport]' type='table' />
+      </relation>
+      <relation name='LocalData' table='[public].[LocalDataAirport]' type='table' />
+    </relation>
+    <cols>
+      <map key='[AirportSynonyms_MapCode]' value='[AirportSynonyms].[MapCode]' />
+      <map key='[AirportSynonyms_ParentID]' value='[AirportSynonyms].[ParentID]' />
+      <map key='[Airport_MapCode]' value='[Airport].[MapCode]' />
+      <map key='[Airport_Name]' value='[AirportSynonyms].[Name]' />
+      <map key='[Airport_ParentID]' value='[Airport].[ParentID]' />
+      <map key='[ID]' value='[Airport].[ID]' />
+      <map key='[IsDisplayName]' value='[AirportSynonyms].[IsDisplayName]' />
+      <map key='[Latitude (generated)]' value='[LocalData].[Latitude]' />
+      <map key='[Locale]' value='[AirportSynonyms].[Locale]' />
+      <map key='[Longitude (generated)]' value='[LocalData].[Longitude]' />
+      <map key='[MapCode]' value='[LocalData].[MapCode]' />
+      <map key='[ParentID]' value='[LocalData].[ParentID]' />
+    </cols>
+  </connection>
+  <aliases enabled='yes' />
+  <column datatype='integer' hidden='true' name='[AirportSynonyms_MapCode]' role='dimension' type='quantitative' />
+  <column aggregation='Sum' datatype='integer' name='[AirportSynonyms_ParentID]' role='dimension' type='ordinal' />
+  <column datatype='integer' hidden='true' name='[Airport_MapCode]' role='dimension' type='quantitative' />
+  <column datatype='string' name='[Airport_Name]' role='dimension' type='nominal'>
+    <server-captions>
+      <caption locale='en_US'>Airport</caption>
+    </server-captions>
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[Airport_ParentID]' role='dimension' type='ordinal' />
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ID]' role='dimension' type='ordinal' />
+  <column aggregation='Avg' datatype='real' name='[Latitude (generated)]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Latitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column aggregation='Avg' datatype='real' name='[Longitude (generated)]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Longitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column datatype='integer' hidden='true' name='[MapCode]' role='dimension' type='quantitative' />
+  <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+    <calculation class='tableau' formula='1' />
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ParentID]' role='dimension' type='ordinal' />
+  <layout dim-ordering='alphabetic' dim-percentage='0.5' measure-ordering='alphabetic' measure-percentage='0.4' show-structure='true' />
+</datasource>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<datasource formatted-name='ZipCode' inline='true' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection access_mode='readonly' class='hyper' dbname='GeocodingData.hyper' default-settings='yes' local-data='standard' schema='public' username='tableau_internal_user'>
+    <relation name='ZipCode' table='[public].[ZipCode]' type='table' />
+    <cols>
+      <map key='[Geometry (generated)]' value='[ZipCode].[Geometry (generated)]' />
+      <map key='[ID]' value='[ZipCode].[ID]' />
+      <map key='[Latitude (generated)]' value='[ZipCode].[Latitude (generated)]' />
+      <map key='[Longitude (generated)]' value='[ZipCode].[Longitude (generated)]' />
+      <map key='[ZipCode]' value='[ZipCode].[Name]' />
+      <map key='[ZipCode_MapCode]' value='[ZipCode].[MapCode]' />
+      <map key='[ZipCode_ParentID]' value='[ZipCode].[ParentID]' />
+    </cols>
+  </connection>
+  <aliases enabled='yes' />
+  <column caption='Geometry (generated)' datatype='string' name='[Geometry (generated)]' role='dimension' type='nominal' />
+  <column datatype='integer' name='[ParentID]' role='measure' type='quantitative'>
+    <calculation class='tableau' formula='[ID]' />
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ID]' role='dimension' type='ordinal' />
+  <column aggregation='Avg' caption='Latitude (generated)' datatype='real' name='[Latitude (generated)]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative' />
+  <column aggregation='Avg' caption='Longitude (generated)' datatype='real' name='[Longitude (generated)]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative' />
+  <column datatype='integer' hidden='true' name='[ZipCode_ParentID]' role='dimension' type='quantitative' />
+  <column datatype='integer' hidden='true' name='[ZipCode_MapCode]' role='dimension' type='quantitative' />
+  <column caption='MapCode' datatype='integer' name='[MapCode]' role='measure' type='quantitative'>
+    <calculation class='tableau' formula='[ZipCode_MapCode]' />
+  </column>
+  <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+    <calculation class='tableau' formula='1' />
+  </column>
+  <column datatype='string' name='[ZipCode]' role='dimension' type='nominal'>
+    <server-captions>
+      <caption locale='en_US'>ZIP Code/Postcode</caption>
+    </server-captions>
+  </column>
+  <column datatype='integer' hidden='true' name='[ParentID]' role='dimension' type='quantitative' />
+  <layout dim-ordering='alphabetic' dim-percentage='0.5' measure-ordering='alphabetic' measure-percentage='0.4' show-structure='true' />
+</datasource>

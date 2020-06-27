@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<datasource formatted-name='State' inline='true' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection access_mode='readonly' class='hyper' dbname='GeocodingData.hyper' default-settings='yes' local-data='standard' schema='public' username='tableau_internal_user'>
+    <relation join='left' type='join'>
+      <clause type='join'>
+        <expression op='AND'>
+          <expression op='='>
+            <expression op='[State].[ID]' />
+            <expression op='[LocalData].[ParentID]' />
+          </expression>
+          <expression op='='>
+            <expression op='[State].[MapCode]' />
+            <expression op='[LocalData].[MapCode]' />
+          </expression>
+        </expression>
+      </clause>
+      <relation join='inner' type='join'>
+        <clause type='join'>
+          <expression op='AND'>
+            <expression op='='>
+              <expression op='[State].[ID]' />
+              <expression op='[StateSynonyms].[ParentID]' />
+            </expression>
+            <expression op='='>
+              <expression op='[State].[MapCode]' />
+              <expression op='[StateSynonyms].[MapCode]' />
+            </expression>
+          </expression>
+        </clause>
+        <relation name='StateSynonyms' table='[public].[StateSynonyms]' type='table' />
+        <relation name='State' table='[public].[State]' type='table' />
+      </relation>
+      <relation name='LocalData' table='[public].[LocalDataState]' type='table' />
+    </relation>
+    <cols>
+      <map key='[Geometry (generated)]' value='[LocalData].[Geometry]' />
+      <map key='[ID]' value='[State].[ID]' />
+      <map key='[IsDisplayName]' value='[StateSynonyms].[IsDisplayName]' />
+      <map key='[Latitude (generated)]' value='[LocalData].[Latitude]' />
+      <map key='[Locale]' value='[StateSynonyms].[Locale]' />
+      <map key='[Longitude (generated)]' value='[LocalData].[Longitude]' />
+      <map key='[MapCode]' value='[LocalData].[MapCode]' />
+      <map key='[ParentID]' value='[LocalData].[ParentID]' />
+      <map key='[StateSynonyms_MapCode]' value='[StateSynonyms].[MapCode]' />
+      <map key='[StateSynonyms_ParentID]' value='[StateSynonyms].[ParentID]' />
+      <map key='[State_MapCode]' value='[State].[MapCode]' />
+      <map key='[State_Name]' value='[StateSynonyms].[Name]' />
+      <map key='[State_ParentID]' value='[State].[ParentID]' />
+    </cols>
+  </connection>
+  <aliases enabled='yes' />
+  <column caption='Geometry (generated)' datatype='string' name='[Geometry (generated)]' role='dimension' semantic-role='[Geographical].[Geometry]' type='nominal' />
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ID]' role='dimension' type='ordinal' />
+  <column aggregation='Avg' datatype='real' name='[Latitude (generated)]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Latitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column aggregation='Avg' datatype='real' name='[Longitude (generated)]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Longitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column datatype='integer' hidden='true' name='[MapCode]' role='dimension' type='quantitative' />
+  <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+    <calculation class='tableau' formula='1' />
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ParentID]' role='dimension' type='ordinal' />
+  <column datatype='integer' hidden='true' name='[StateSynonyms_MapCode]' role='dimension' type='quantitative' />
+  <column aggregation='Sum' datatype='integer' name='[StateSynonyms_ParentID]' role='dimension' type='ordinal' />
+  <column datatype='integer' hidden='true' name='[State_MapCode]' role='dimension' type='quantitative' />
+  <column datatype='string' name='[State_Name]' role='dimension' type='nominal'>
+    <server-captions>
+      <caption locale='en_US'>State/Province</caption>
+    </server-captions>
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[State_ParentID]' role='dimension' type='ordinal' />
+  <layout dim-ordering='alphabetic' dim-percentage='0.5' measure-ordering='alphabetic' measure-percentage='0.4' show-structure='true' />
+</datasource>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<datasource formatted-name='City' inline='true' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection access_mode='readonly' class='hyper' dbname='GeocodingData.hyper' default-settings='yes' local-data='standard' schema='public' username='tableau_internal_user'>
+    <relation join='left' type='join'>
+      <clause type='join'>
+        <expression op='AND'>
+          <expression op='='>
+            <expression op='[City].[ID]' />
+            <expression op='[LocalData].[ParentID]' />
+          </expression>
+          <expression op='='>
+            <expression op='[City].[MapCode]' />
+            <expression op='[LocalData].[MapCode]' />
+          </expression>
+        </expression>
+      </clause>
+      <relation join='inner' type='join'>
+        <clause type='join'>
+          <expression op='AND'>
+            <expression op='='>
+              <expression op='[City].[ID]' />
+              <expression op='[CitySynonyms].[ParentID]' />
+            </expression>
+            <expression op='='>
+              <expression op='[City].[MapCode]' />
+              <expression op='[CitySynonyms].[MapCode]' />
+            </expression>
+          </expression>
+        </clause>
+        <relation name='CitySynonyms' table='[public].[CitySynonyms]' type='table' />
+        <relation name='City' table='[public].[City]' type='table' />
+      </relation>
+      <relation name='LocalData' table='[public].[LocalDataCity]' type='table' />
+    </relation>
+    <cols>
+      <map key='[CitySynonyms_MapCode]' value='[CitySynonyms].[MapCode]' />
+      <map key='[CitySynonyms_ParentID]' value='[CitySynonyms].[ParentID]' />
+      <map key='[City_MapCode]' value='[City].[MapCode]' />
+      <map key='[City_Name]' value='[CitySynonyms].[Name]' />
+      <map key='[City_ParentID]' value='[City].[ParentID]' />
+      <map key='[ID]' value='[City].[ID]' />
+      <map key='[IsDisplayName]' value='[CitySynonyms].[IsDisplayName]' />
+      <map key='[Latitude (generated)]' value='[LocalData].[Latitude]' />
+      <map key='[Locale]' value='[CitySynonyms].[Locale]' />
+      <map key='[Longitude (generated)]' value='[LocalData].[Longitude]' />
+      <map key='[MapCode]' value='[LocalData].[MapCode]' />
+      <map key='[ParentID]' value='[LocalData].[ParentID]' />
+    </cols>
+  </connection>
+  <aliases enabled='yes' />
+  <column datatype='integer' hidden='true' name='[CitySynonyms_MapCode]' role='dimension' type='quantitative' />
+  <column aggregation='Sum' datatype='integer' name='[CitySynonyms_ParentID]' role='dimension' type='ordinal' />
+  <column datatype='integer' hidden='true' name='[City_MapCode]' role='dimension' type='quantitative' />
+  <column datatype='string' name='[City_Name]' role='dimension' type='nominal'>
+    <server-captions>
+      <caption locale='en_US'>City</caption>
+    </server-captions>
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[City_ParentID]' role='dimension' type='ordinal' />
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ID]' role='dimension' type='ordinal' />
+  <column aggregation='Avg' datatype='real' name='[Latitude (generated)]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Latitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column aggregation='Avg' datatype='real' name='[Longitude (generated)]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative'>
+    <server-captions>
+      <caption locale='en_US'>Longitude (generated)</caption>
+    </server-captions>
+  </column>
+  <column datatype='integer' hidden='true' name='[MapCode]' role='dimension' type='quantitative' />
+  <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+    <calculation class='tableau' formula='1' />
+  </column>
+  <column aggregation='Sum' datatype='integer' hidden='true' name='[ParentID]' role='dimension' type='ordinal' />
+  <layout dim-ordering='alphabetic' dim-percentage='0.5' measure-ordering='alphabetic' measure-percentage='0.4' show-structure='true' />
+</datasource>
