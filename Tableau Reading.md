@@ -29,5 +29,6 @@ There are few things that one must learn to be exhibit strong hands-on with Tabl
 24. Publishing your work
 
 ## References:
-1. https://www.tableau.com/learn/training/20201
-2. https://elearning.tableau.com/desktop-i-fundamentals
+1. [Tableau Demo videos](https://www.tableau.com/learn/training/20201)
+2. [Tableau Fundamentals](https://elearning.tableau.com/desktop-i-fundamentals)
+3. [Different Tableau Learning Paths and Courses](https://elearning.tableau.com/?_ga=2.215159764.239192778.1592863785-412560178.1584824755)
