@@ -1,0 +1,931 @@
+﻿years since ipo,Company Name (Full),Company Name,Growth Group,Net Income (2008),Number of Records,Revenue (2008),Revenue (Inflation Adjusted),Segment,Ticker,Year Founded,Year
+0,Actuate Corporation,Actuate,Hot Company,13.58,1,130.99,0,Business Intelligence,ACTU,1993,1993
+0,Informatica Corporation,Informatica,Hot Company,55.98,1,455.7,0,Business Intelligence,INFA,1993,1993
+1,Actuate Corporation,Actuate,Hot Company,13.58,1,130.99,,Business Intelligence,ACTU,1993,1994
+1,Informatica Corporation,Informatica,Hot Company,55.98,1,455.7,0.6535,Business Intelligence,INFA,1993,1994
+2,Actuate Corporation,Actuate,Hot Company,13.58,1,130.99,0.0308,Business Intelligence,ACTU,1993,1995
+2,Informatica Corporation,Informatica,Hot Company,55.98,1,455.7,0.8246,Business Intelligence,INFA,1993,1995
+3,Actuate Corporation,Actuate,Hot Company,13.58,1,130.99,0.8854,Business Intelligence,ACTU,1993,1996
+3,Informatica Corporation,Informatica,Hot Company,55.98,1,455.7,2.8016,Business Intelligence,INFA,1993,1996
+4,Actuate Corporation,Actuate,Hot Company,13.58,1,130.99,12.7541,Business Intelligence,ACTU,1993,1997
+4,Informatica Corporation,Informatica,Hot Company,55.98,1,455.7,16.214,Business Intelligence,INFA,1993,1997
+5,Actuate Corporation,Actuate,Hot Company,13.58,1,130.99,28.871,Business Intelligence,ACTU,1993,1998
+5,Informatica Corporation,Informatica,Hot Company,55.98,1,455.7,38.016,Business Intelligence,INFA,1993,1998
+6,Actuate Corporation,Actuate,Hot Company,13.58,1,130.99,59.8797,Business Intelligence,ACTU,1993,1999
+6,Informatica Corporation,Informatica,Hot Company,55.98,1,455.7,79.872,Business Intelligence,INFA,1993,1999
+9,Actuate Corporation,Actuate,Hot Company,13.58,1,130.99,129.948,Business Intelligence,ACTU,1993,2002
+0,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,0,Business Intelligence,MSTR,1989,1989
+1,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,,Business Intelligence,MSTR,1989,1990
+2,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,,Business Intelligence,MSTR,1989,1991
+3,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,,Business Intelligence,MSTR,1989,1992
+4,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,6.0299,Business Intelligence,MSTR,1989,1993
+5,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,7.1214,Business Intelligence,MSTR,1989,1994
+6,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,13.6878,Business Intelligence,MSTR,1989,1995
+7,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,30.7401,Business Intelligence,MSTR,1989,1996
+8,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,71.7664,Business Intelligence,MSTR,1989,1997
+9,MicroStrategy Incorporated,MicroStrategy,Hot Company,41.77,1,360.39,140.448,Business Intelligence,MSTR,1989,1998
+0,Parametric Technology,Parametric,Hot Company,79.7,1,1070.33,0,CAD / EDA,PMTC,1985,1985
+1,Parametric Technology,Parametric,Hot Company,79.7,1,1070.33,,CAD / EDA,PMTC,1985,1986
+2,Parametric Technology,Parametric,Hot Company,79.7,1,1070.33,,CAD / EDA,PMTC,1985,1987
+3,Parametric Technology,Parametric,Hot Company,79.7,1,1070.33,5.76,CAD / EDA,PMTC,1985,1988
+4,Parametric Technology,Parametric,Hot Company,79.7,1,1070.33,18.92,CAD / EDA,PMTC,1985,1989
+5,Parametric Technology,Parametric,Hot Company,79.7,1,1070.33,41.402,CAD / EDA,PMTC,1985,1990
+6,Parametric Technology,Parametric,Hot Company,79.7,1,1070.33,69.732,CAD / EDA,PMTC,1985,1991
+7,Parametric Technology,Parametric,Hot Company,79.7,1,1070.33,131.784,CAD / EDA,PMTC,1985,1992
+0,Nuance Communications Inc.,Nuance,Hot Company,-30.07,1,868.46,0,Communications,NUAN,1992,1992
+1,Nuance Communications Inc.,Nuance,Hot Company,-30.07,1,868.46,,Communications,NUAN,1992,1993
+2,Nuance Communications Inc.,Nuance,Hot Company,-30.07,1,868.46,,Communications,NUAN,1992,1994
+3,Nuance Communications Inc.,Nuance,Hot Company,-30.07,1,868.46,,Communications,NUAN,1992,1995
+4,Nuance Communications Inc.,Nuance,Hot Company,-30.07,1,868.46,2.0373,Communications,NUAN,1992,1996
+5,Nuance Communications Inc.,Nuance,Hot Company,-30.07,1,868.46,5.8719,Communications,NUAN,1992,1997
+6,Nuance Communications Inc.,Nuance,Hot Company,-30.07,1,868.46,15.6803,Communications,NUAN,1992,1998
+7,Nuance Communications Inc.,Nuance,Hot Company,-30.07,1,868.46,25.0458,Communications,NUAN,1992,1999
+8,Nuance Communications Inc.,Nuance,Hot Company,-30.07,1,868.46,64.232,Communications,NUAN,1992,2000
+0,Open Text Corporation (USA),Open Text,Hot Company,53.01,1,725.53,0.3058,Content Management,OTEX,1991,1991
+0,"Digital River, Inc.",Digital River,Hot Company,63.6,1,394.23,0,Content Management,DRIV,1994,1994
+1,Open Text Corporation (USA),Open Text,Hot Company,53.01,1,725.53,2.584,Content Management,OTEX,1991,1992
+1,"Digital River, Inc.",Digital River,Hot Company,63.6,1,394.23,,Content Management,DRIV,1994,1995
+2,Open Text Corporation (USA),Open Text,Hot Company,53.01,1,725.53,2.352,Content Management,OTEX,1991,1993
+2,"Digital River, Inc.",Digital River,Hot Company,63.6,1,394.23,0.1292,Content Management,DRIV,1994,1996
+3,Open Text Corporation (USA),Open Text,Hot Company,53.01,1,725.53,3.289,Content Management,OTEX,1991,1994
+3,"Digital River, Inc.",Digital River,Hot Company,63.6,1,394.23,0.5628,Content Management,DRIV,1994,1997
+4,Open Text Corporation (USA),Open Text,Hot Company,53.01,1,725.53,4.76,Content Management,OTEX,1991,1995
+4,"Digital River, Inc.",Digital River,Hot Company,63.6,1,394.23,4.488,Content Management,DRIV,1994,1998
+5,Open Text Corporation (USA),Open Text,Hot Company,53.01,1,725.53,13.6,Content Management,OTEX,1991,1996
+5,"Digital River, Inc.",Digital River,Hot Company,63.6,1,394.23,18.56,Content Management,DRIV,1994,1999
+6,Open Text Corporation (USA),Open Text,Hot Company,53.01,1,725.53,30.284,Content Management,OTEX,1991,1997
+6,"Digital River, Inc.",Digital River,Hot Company,63.6,1,394.23,38.564,Content Management,DRIV,1994,2000
+7,Open Text Corporation (USA),Open Text,Hot Company,53.01,1,725.53,59.796,Content Management,OTEX,1991,1998
+7,"Digital River, Inc.",Digital River,Hot Company,63.6,1,394.23,70.516,Content Management,DRIV,1994,2001
+8,Open Text Corporation (USA),Open Text,Hot Company,53.01,1,725.53,118.4,Content Management,OTEX,1991,1999
+0,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,0,CRM,ARTG,1991,1991
+0,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,0,CRM,DMAN,1999,1999
+1,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,,CRM,ARTG,1991,1992
+1,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,,CRM,DMAN,1999,2000
+2,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,,CRM,ARTG,1991,1993
+2,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,,CRM,DMAN,1999,2001
+3,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,1.0768,CRM,ARTG,1991,1994
+3,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,,CRM,DMAN,1999,2002
+4,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,1.1172,CRM,ARTG,1991,1995
+4,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,9.492,CRM,DMAN,1999,2003
+5,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,5.3067,CRM,ARTG,1991,1996
+5,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,10.622,CRM,DMAN,1999,2004
+6,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,8.6524,CRM,ARTG,1991,1997
+6,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,21.255,CRM,DMAN,1999,2005
+7,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,16.0208,CRM,ARTG,1991,1998
+7,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,34.775,CRM,DMAN,1999,2006
+8,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,40.96,CRM,ARTG,1991,1999
+8,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,45.24,CRM,DMAN,1999,2007
+9,"Art Technology Group, Inc.",Art Technology,Hot Company,3.8,1,164.64,202.492,CRM,ARTG,1991,2000
+9,"DemandTec, Inc.",DemandTec,Hot Company,-4.49,1,61.27,61.3,CRM,DMAN,1999,2008
+0,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,0,CRM,OMTR,1996,1996
+1,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,,CRM,OMTR,1996,1997
+2,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,,CRM,OMTR,1996,1998
+3,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,,CRM,OMTR,1996,1999
+4,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,,CRM,OMTR,1996,2000
+5,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,2.257,CRM,OMTR,1996,2001
+6,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,4.403,CRM,OMTR,1996,2002
+7,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,9.831,CRM,OMTR,1996,2003
+8,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,23.278,CRM,OMTR,1996,2004
+9,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,46.652,CRM,OMTR,1996,2005
+10,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,85.386,CRM,OMTR,1996,2006
+11,"Omniture, Inc.",Omniture,Hot Company,-44.77,1,295.61,148.824,CRM,OMTR,1996,2007
+0,Netezza Corporation,Netezza,Hot Company,-0.86,1,126.69,0,Database,NZ,2000,2000
+1,Netezza Corporation,Netezza,Hot Company,-0.86,1,126.69,,Database,NZ,2000,2001
+2,Netezza Corporation,Netezza,Hot Company,-0.86,1,126.69,,Database,NZ,2000,2002
+3,Netezza Corporation,Netezza,Hot Company,-0.86,1,126.69,,Database,NZ,2000,2003
+4,Netezza Corporation,Netezza,Hot Company,-0.86,1,126.69,15.368,Database,NZ,2000,2004
+5,Netezza Corporation,Netezza,Hot Company,-0.86,1,126.69,33.6897,Database,NZ,2000,2005
+6,Netezza Corporation,Netezza,Hot Company,-0.86,1,126.69,48.6936,Database,NZ,2000,2006
+7,Netezza Corporation,Netezza,Hot Company,-0.86,1,126.69,67.2173,Database,NZ,2000,2007
+0,Oracle Corporation,Oracle,Hot Company,5521,1,22430,0,Database,ORCL,1977,1977
+1,Oracle Corporation,Oracle,Hot Company,5521,1,22430,,Database,ORCL,1977,1978
+2,Oracle Corporation,Oracle,Hot Company,5521,1,22430,,Database,ORCL,1977,1979
+3,Oracle Corporation,Oracle,Hot Company,5521,1,22430,1.548,Database,ORCL,1977,1980
+4,Oracle Corporation,Oracle,Hot Company,5521,1,22430,2.808,Database,ORCL,1977,1981
+5,Oracle Corporation,Oracle,Hot Company,5521,1,22430,5.28,Database,ORCL,1977,1982
+6,Oracle Corporation,Oracle,Hot Company,5521,1,22430,10.65,Database,ORCL,1977,1983
+7,Oracle Corporation,Oracle,Hot Company,5521,1,22430,26.035,Database,ORCL,1977,1984
+8,Oracle Corporation,Oracle,Hot Company,5521,1,22430,45.936,Database,ORCL,1977,1985
+9,Oracle Corporation,Oracle,Hot Company,5521,1,22430,107.476,Database,ORCL,1977,1986
+0,"DivX, Inc.",DivX,Hot Company,9.21,1,84.86,0,Entertainment,DIVX,2000,2000
+1,"DivX, Inc.",DivX,Hot Company,9.21,1,84.86,0.1696,Entertainment,DIVX,2000,2001
+2,"DivX, Inc.",DivX,Hot Company,9.21,1,84.86,3.213,Entertainment,DIVX,2000,2002
+3,"DivX, Inc.",DivX,Hot Company,9.21,1,84.86,8.701,Entertainment,DIVX,2000,2003
+4,"DivX, Inc.",DivX,Hot Company,9.21,1,84.86,18.532,Entertainment,DIVX,2000,2004
+5,"DivX, Inc.",DivX,Hot Company,9.21,1,84.86,35.97,Entertainment,DIVX,2000,2005
+6,"DivX, Inc.",DivX,Hot Company,9.21,1,84.86,63.451,Entertainment,DIVX,2000,2006
+0,International Game Technology,International Game,Hot Company,342.5,1,2528.6,0,Entertainment,IGT,1971,1971
+1,International Game Technology,International Game,Hot Company,342.5,1,2528.6,,Entertainment,IGT,1971,1972
+2,International Game Technology,International Game,Hot Company,342.5,1,2528.6,,Entertainment,IGT,1971,1973
+3,International Game Technology,International Game,Hot Company,342.5,1,2528.6,,Entertainment,IGT,1971,1974
+4,International Game Technology,International Game,Hot Company,342.5,1,2528.6,,Entertainment,IGT,1971,1975
+5,International Game Technology,International Game,Hot Company,342.5,1,2528.6,1.87,Entertainment,IGT,1971,1976
+6,International Game Technology,International Game,Hot Company,342.5,1,2528.6,9.828,Entertainment,IGT,1971,1977
+7,International Game Technology,International Game,Hot Company,342.5,1,2528.6,29.43,Entertainment,IGT,1971,1978
+8,International Game Technology,International Game,Hot Company,342.5,1,2528.6,55.084,Entertainment,IGT,1971,1979
+9,International Game Technology,International Game,Hot Company,342.5,1,2528.6,103.458,Entertainment,IGT,1971,1980
+10,International Game Technology,International Game,Hot Company,342.5,1,2528.6,,Entertainment,IGT,1971,1981
+11,International Game Technology,International Game,Hot Company,342.5,1,2528.6,134.2,Entertainment,IGT,1971,1982
+0,"SuccessFactors, Inc.",SuccessFactors,Hot Company,-64.95,1,111.91,0,ERP,SFSF,2001,2001
+1,"SuccessFactors, Inc.",SuccessFactors,Hot Company,-64.95,1,111.91,1.19,ERP,SFSF,2001,2002
+2,"SuccessFactors, Inc.",SuccessFactors,Hot Company,-64.95,1,111.91,5.65,ERP,SFSF,2001,2003
+3,"SuccessFactors, Inc.",SuccessFactors,Hot Company,-64.95,1,111.91,11.5452,ERP,SFSF,2001,2004
+4,"SuccessFactors, Inc.",SuccessFactors,Hot Company,-64.95,1,111.91,14.2005,ERP,SFSF,2001,2005
+5,"SuccessFactors, Inc.",SuccessFactors,Hot Company,-64.95,1,111.91,34.8499,ERP,SFSF,2001,2006
+6,"SuccessFactors, Inc.",SuccessFactors,Hot Company,-64.95,1,111.91,65.832,ERP,SFSF,2001,2007
+0,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,0,ERP,ULTI,1990,1990
+0,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,1.6699,ERP,ULTI,1990,1990
+1,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,,ERP,ULTI,1990,1991
+1,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,3.106,ERP,ULTI,1990,1991
+2,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,,ERP,ULTI,1990,1992
+2,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,5.2178,ERP,ULTI,1990,1992
+3,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,12.6643,ERP,ULTI,1990,1993
+4,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,23.5733,ERP,ULTI,1990,1994
+5,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,57.156,ERP,ULTI,1990,1995
+6,"The Ultimate Software Group, Inc.",Ultimate Software,Hot Company,-2.9,1,178.57,71.424,ERP,ULTI,1990,1996
+0,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,0,ERP,CNQR,1993,1993
+1,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,1.5215,ERP,CNQR,1993,1994
+2,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,2.9792,ERP,CNQR,1993,1995
+3,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,2.6642,ERP,CNQR,1993,1996
+4,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,11.0818,ERP,CNQR,1993,1997
+5,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,15.4638,ERP,CNQR,1993,1998
+6,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,48.384,ERP,CNQR,1993,1999
+7,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,47.864,ERP,CNQR,1993,2000
+8,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,48.434,ERP,CNQR,1993,2001
+9,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,53.669,ERP,CNQR,1993,2002
+10,"Concur Technologies, Inc.",Concur,Hot Company,17.18,1,215.49,64.071,ERP,CNQR,1993,2003
+0,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,0,Network / Infrastructure/ EAI,SMCI,1993,1993
+1,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,,Network / Infrastructure/ EAI,SMCI,1993,1994
+2,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,,Network / Infrastructure/ EAI,SMCI,1993,1995
+3,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,,Network / Infrastructure/ EAI,SMCI,1993,1996
+4,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,,Network / Infrastructure/ EAI,SMCI,1993,1997
+5,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,,Network / Infrastructure/ EAI,SMCI,1993,1998
+6,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,,Network / Infrastructure/ EAI,SMCI,1993,1999
+7,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,,Network / Infrastructure/ EAI,SMCI,1993,2000
+8,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,97.6,Network / Infrastructure/ EAI,SMCI,1993,2001
+9,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,104.958,Network / Infrastructure/ EAI,SMCI,1993,2002
+10,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,155.036,Network / Infrastructure/ EAI,SMCI,1993,2003
+11,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,188.823,Network / Infrastructure/ EAI,SMCI,1993,2004
+12,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,230.862,Network / Infrastructure/ EAI,SMCI,1993,2005
+13,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,323.675,Network / Infrastructure/ EAI,SMCI,1993,2006
+14,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,437.216,Network / Infrastructure/ EAI,SMCI,1993,2007
+15,"Super Micro Computer, Inc.",SuperMicro,Hot Company,25.42,1,540.5,540.5,Network / Infrastructure/ EAI,SMCI,1993,2008
+0,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,0,Network / Infrastructure/ EAI,PRGS,1981,1981
+1,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,,Network / Infrastructure/ EAI,PRGS,1981,1982
+2,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,,Network / Infrastructure/ EAI,PRGS,1981,1983
+3,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,,Network / Infrastructure/ EAI,PRGS,1981,1984
+4,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,5.94,Network / Infrastructure/ EAI,PRGS,1981,1985
+5,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,8.924,Network / Infrastructure/ EAI,PRGS,1981,1986
+6,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,11.407,Network / Infrastructure/ EAI,PRGS,1981,1987
+7,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,27.54,Network / Infrastructure/ EAI,PRGS,1981,1988
+8,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,43.516,Network / Infrastructure/ EAI,PRGS,1981,1989
+9,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,65.2,Network / Infrastructure/ EAI,PRGS,1981,1990
+10,Progress Software Corporation,Progress,Hot Company,46.3,1,515.56,90.48,Network / Infrastructure/ EAI,PRGS,1981,1991
+0,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,0,Network / Infrastructure/ EAI,NICE,1986,1986
+0,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,0,Network / Infrastructure/ EAI,ELON,1989,1989
+1,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,,Network / Infrastructure/ EAI,NICE,1986,1987
+1,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,,Network / Infrastructure/ EAI,ELON,1989,1990
+2,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,,Network / Infrastructure/ EAI,NICE,1986,1988
+2,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,,Network / Infrastructure/ EAI,ELON,1989,1991
+3,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,,Network / Infrastructure/ EAI,NICE,1986,1989
+3,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,,Network / Infrastructure/ EAI,ELON,1989,1992
+4,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,4.727,Network / Infrastructure/ EAI,NICE,1986,1990
+4,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,16.9711,Network / Infrastructure/ EAI,ELON,1989,1993
+5,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,7.176,Network / Infrastructure/ EAI,NICE,1986,1991
+5,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,23.9268,Network / Infrastructure/ EAI,ELON,1989,1994
+6,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,7.6,Network / Infrastructure/ EAI,NICE,1986,1992
+6,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,32.6802,Network / Infrastructure/ EAI,ELON,1989,1995
+7,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,7.938,Network / Infrastructure/ EAI,NICE,1986,1993
+7,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,32.6264,Network / Infrastructure/ EAI,ELON,1989,1996
+8,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,12.87,Network / Infrastructure/ EAI,NICE,1986,1994
+8,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,37.9247,Network / Infrastructure/ EAI,ELON,1989,1997
+9,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,29.4,Network / Infrastructure/ EAI,NICE,1986,1995
+9,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,42.504,Network / Infrastructure/ EAI,ELON,1989,1998
+10,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,54.128,Network / Infrastructure/ EAI,NICE,1986,1996
+10,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,50.816,Network / Infrastructure/ EAI,ELON,1989,1999
+11,Nice Systems Ltd. (ADR),Nice Systems,Hot Company,39.11,1,624.16,92.46,Network / Infrastructure/ EAI,NICE,1986,1997
+11,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,61.132,Network / Infrastructure/ EAI,ELON,1989,2000
+12,Echelon Corporation,Echelon,Hot Company,-25.83,1,134.05,93.452,Network / Infrastructure/ EAI,ELON,1989,2001
+0,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,0,Operating Systems,MSFT,1975,1975
+1,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,,Operating Systems,MSFT,1975,1976
+2,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,,Operating Systems,MSFT,1975,1977
+3,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,,Operating Systems,MSFT,1975,1978
+4,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,,Operating Systems,MSFT,1975,1979
+5,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,,Operating Systems,MSFT,1975,1980
+6,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,,Operating Systems,MSFT,1975,1981
+7,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,53.9,Operating Systems,MSFT,1975,1982
+8,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,106.5,Operating Systems,MSFT,1975,1983
+9,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,199.875,Operating Systems,MSFT,1975,1984
+10,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,277.992,Operating Systems,MSFT,1975,1985
+11,Microsoft Corporation,Microsoft,Hot Company,17681,1,60420,383.15,Operating Systems,MSFT,1975,1986
+0,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,0,Operating Systems,RHT,1993,1993
+1,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,,Operating Systems,RHT,1993,1994
+2,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,0.28,Operating Systems,RHT,1993,1995
+3,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,0.6555,Operating Systems,RHT,1993,1996
+4,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,1.2462,Operating Systems,RHT,1993,1997
+5,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,3.436,Operating Systems,RHT,1993,1998
+6,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,6.5997,Operating Systems,RHT,1993,1999
+7,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,13.3796,Operating Systems,RHT,1993,2000
+8,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,98.576,Operating Systems,RHT,1993,2001
+9,"Red Hat, Inc.",RedHat,Hot Company,76.67,1,523.02,93.891,Operating Systems,RHT,1993,2002
+0,"Sourcefire, Inc.",Sourcefire,Hot Company,-6.07,1,75.67,0,Security,FIRE,2001,2001
+1,"Sourcefire, Inc.",Sourcefire,Hot Company,-6.07,1,75.67,2.261,Security,FIRE,2001,2002
+2,"Sourcefire, Inc.",Sourcefire,Hot Company,-6.07,1,75.67,10.735,Security,FIRE,2001,2003
+3,"Sourcefire, Inc.",Sourcefire,Hot Company,-6.07,1,75.67,18.871,Security,FIRE,2001,2004
+4,"Sourcefire, Inc.",Sourcefire,Hot Company,-6.07,1,75.67,35.861,Security,FIRE,2001,2005
+5,"Sourcefire, Inc.",Sourcefire,Hot Company,-6.07,1,75.67,48.043,Security,FIRE,2001,2006
+6,"Sourcefire, Inc.",Sourcefire,Hot Company,-6.07,1,75.67,58.136,Security,FIRE,2001,2007
+7,"Sourcefire, Inc.",Sourcefire,Hot Company,-6.07,1,75.67,75.7,Security,FIRE,2001,2008
+0,Symantec Corporation,Symantec,Hot Company,463.85,1,5874.42,0,Security,SYMC,1982,1982
+0,"Citrix Systems, Inc.",Citrix,Hot Company,178.28,1,1583.35,0,Security,CTXS,1989,1989
+1,Symantec Corporation,Symantec,Hot Company,463.85,1,5874.42,,Security,SYMC,1982,1983
+1,"Citrix Systems, Inc.",Citrix,Hot Company,178.28,1,1583.35,,Security,CTXS,1989,1990
+2,Symantec Corporation,Symantec,Hot Company,463.85,1,5874.42,,Security,SYMC,1982,1984
+2,"Citrix Systems, Inc.",Citrix,Hot Company,178.28,1,1583.35,0.4696,Security,CTXS,1989,1991
+3,Symantec Corporation,Symantec,Hot Company,463.85,1,5874.42,1.7523,Security,SYMC,1982,1985
+3,"Citrix Systems, Inc.",Citrix,Hot Company,178.28,1,1583.35,2.7375,Security,CTXS,1989,1992
+4,Symantec Corporation,Symantec,Hot Company,463.85,1,5874.42,11.834,Security,SYMC,1982,1986
+4,"Citrix Systems, Inc.",Citrix,Hot Company,178.28,1,1583.35,7.5911,Security,CTXS,1989,1993
+5,Symantec Corporation,Symantec,Hot Company,463.85,1,5874.42,26.741,Security,SYMC,1982,1987
+5,"Citrix Systems, Inc.",Citrix,Hot Company,178.28,1,1583.35,14.4215,Security,CTXS,1989,1994
+6,Symantec Corporation,Symantec,Hot Company,463.85,1,5874.42,,Security,SYMC,1982,1988
+6,"Citrix Systems, Inc.",Citrix,Hot Company,178.28,1,1583.35,20.3952,Security,CTXS,1989,1995
+7,Symantec Corporation,Symantec,Hot Company,463.85,1,5874.42,68.8,Security,SYMC,1982,1989
+7,"Citrix Systems, Inc.",Citrix,Hot Company,178.28,1,1583.35,60.52,Security,CTXS,1989,1996
+8,Symantec Corporation,Symantec,Hot Company,463.85,1,5874.42,81.5,Security,SYMC,1982,1990
+8,"Citrix Systems, Inc.",Citrix,Hot Company,178.28,1,1583.35,166.16,Security,CTXS,1989,1997
+0,Websense Inc.,Websense,Hot Company,-29.87,1,295.86,0,Security,WBSN,1994,1994
+1,Websense Inc.,Websense,Hot Company,-29.87,1,295.86,1.2348,Security,WBSN,1994,1995
+2,Websense Inc.,Websense,Hot Company,-29.87,1,295.86,3.5224,Security,WBSN,1994,1996
+3,Websense Inc.,Websense,Hot Company,-29.87,1,295.86,6.7268,Security,WBSN,1994,1997
+4,Websense Inc.,Websense,Hot Company,-29.87,1,295.86,9.1331,Security,WBSN,1994,1998
+5,Websense Inc.,Websense,Hot Company,-29.87,1,295.86,11.0682,Security,WBSN,1994,1999
+6,Websense Inc.,Websense,Hot Company,-29.87,1,295.86,21.576,Security,WBSN,1994,2000
+7,Websense Inc.,Websense,Hot Company,-29.87,1,295.86,43.676,Security,WBSN,1994,2001
+8,Websense Inc.,Websense,Hot Company,-29.87,1,295.86,83.3,Security,WBSN,1994,2002
+0,"i2 Technologies, Inc.",i2,Hot Company,106.66,1,255.81,0,Supply Chain,ITWO,1989,1989
+1,"i2 Technologies, Inc.",i2,Hot Company,106.66,1,255.81,,Supply Chain,ITWO,1989,1990
+2,"i2 Technologies, Inc.",i2,Hot Company,106.66,1,255.81,1.716,Supply Chain,ITWO,1989,1991
+3,"i2 Technologies, Inc.",i2,Hot Company,106.66,1,255.81,2.888,Supply Chain,ITWO,1989,1992
+4,"i2 Technologies, Inc.",i2,Hot Company,106.66,1,255.81,6.762,Supply Chain,ITWO,1989,1993
+5,"i2 Technologies, Inc.",i2,Hot Company,106.66,1,255.81,16.445,Supply Chain,ITWO,1989,1994
+6,"i2 Technologies, Inc.",i2,Hot Company,106.66,1,255.81,36.26,Supply Chain,ITWO,1989,1995
+7,"i2 Technologies, Inc.",i2,Hot Company,106.66,1,255.81,138.04,Supply Chain,ITWO,1989,1996
+0,"Manhattan Associates, Inc.",Manhattan Assoc,Hot Company,22.8,1,337.2,0,Supply Chain,MANH,1990,1990
+1,"Manhattan Associates, Inc.",Manhattan Assoc,Hot Company,22.8,1,337.2,,Supply Chain,MANH,1990,1991
+2,"Manhattan Associates, Inc.",Manhattan Assoc,Hot Company,22.8,1,337.2,,Supply Chain,MANH,1990,1992
+3,"Manhattan Associates, Inc.",Manhattan Assoc,Hot Company,22.8,1,337.2,4.8642,Supply Chain,MANH,1990,1993
+4,"Manhattan Associates, Inc.",Manhattan Assoc,Hot Company,22.8,1,337.2,9.3122,Supply Chain,MANH,1990,1994
+5,"Manhattan Associates, Inc.",Manhattan Assoc,Hot Company,22.8,1,337.2,15.7094,Supply Chain,MANH,1990,1995
+6,"Manhattan Associates, Inc.",Manhattan Assoc,Hot Company,22.8,1,337.2,19.584,Supply Chain,MANH,1990,1996
+7,"Manhattan Associates, Inc.",Manhattan Assoc,Hot Company,22.8,1,337.2,43.4924,Supply Chain,MANH,1990,1997
+8,"Manhattan Associates, Inc.",Manhattan Assoc,Hot Company,22.8,1,337.2,81.84,Supply Chain,MANH,1990,1998
+0,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,0,Systems Management,BMC,1980,1980
+0,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,0,Systems Management,CVLT,1996,1996
+1,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,,Systems Management,BMC,1980,1981
+1,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,,Systems Management,CVLT,1996,1997
+2,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,,Systems Management,BMC,1980,1982
+2,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,,Systems Management,CVLT,1996,1998
+3,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,,Systems Management,BMC,1980,1983
+3,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,,Systems Management,CVLT,1996,1999
+4,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,11.89,Systems Management,BMC,1980,1984
+4,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,,Systems Management,CVLT,1996,2000
+5,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,18.414,Systems Management,BMC,1980,1985
+5,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,34.16,Systems Management,CVLT,1996,2001
+6,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,34.92,Systems Management,BMC,1980,1986
+6,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,35.7,Systems Management,CVLT,1996,2002
+7,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,52.36,Systems Management,BMC,1980,1987
+7,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,50.172,Systems Management,CVLT,1996,2003
+8,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,74.88,Systems Management,BMC,1980,1988
+8,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,69.156,Systems Management,CVLT,1996,2004
+9,BMC Software Inc.,BMC,Hot Company,313.6,1,1731.6,103.2,Systems Management,BMC,1980,1989
+9,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,90.034,Systems Management,CVLT,1996,2005
+10,"CommVault Systems, Inc.",CommVault,Hot Company,20.8,1,198.3,117.165,Systems Management,CVLT,1996,2006
+0,CA Inc.,CA,Hot Company,500,1,4277,0,Systems Management,CA,1974,1974
+1,CA Inc.,CA,Hot Company,500,1,4277,,Systems Management,CA,1974,1975
+2,CA Inc.,CA,Hot Company,500,1,4277,,Systems Management,CA,1974,1976
+3,CA Inc.,CA,Hot Company,500,1,4277,4.212,Systems Management,CA,1974,1977
+4,CA Inc.,CA,Hot Company,500,1,4277,10.464,Systems Management,CA,1974,1978
+5,CA Inc.,CA,Hot Company,500,1,4277,17.58,Systems Management,CA,1974,1979
+6,CA Inc.,CA,Hot Company,500,1,4277,22.704,Systems Management,CA,1974,1980
+7,CA Inc.,CA,Hot Company,500,1,4277,43.29,Systems Management,CA,1974,1981
+8,CA Inc.,CA,Hot Company,500,1,4277,55,Systems Management,CA,1974,1982
+9,CA Inc.,CA,Hot Company,500,1,4277,70.29,Systems Management,CA,1974,1983
+10,CA Inc.,CA,Hot Company,500,1,4277,98.8731,Systems Management,CA,1974,1984
+0,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,0,Systems Management,CPWR,1973,1973
+1,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1974
+2,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1975
+3,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1976
+4,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1977
+5,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1978
+6,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1979
+7,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1980
+8,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1981
+9,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1982
+10,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,,Systems Management,CPWR,1973,1983
+11,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,56.588,Systems Management,CPWR,1973,1984
+12,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,73.2387,Systems Management,CPWR,1973,1985
+13,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,96.1573,Systems Management,CPWR,1973,1986
+14,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,124.2015,Systems Management,CPWR,1973,1987
+15,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,160.2,Systems Management,CPWR,1973,1988
+16,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,189.2,Systems Management,CPWR,1973,1989
+17,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,207.01,Systems Management,CPWR,1973,1990
+18,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,219.96,Systems Management,CPWR,1973,1991
+19,Compuware Corporation,Compuware,Hot Company,134.39,1,1229.61,266,Systems Management,CPWR,1973,1992
+0,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,0,Vertical Application,INTU,1983,1983
+1,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,,Vertical Application,INTU,1983,1984
+2,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,,Vertical Application,INTU,1983,1985
+3,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,,Vertical Application,INTU,1983,1986
+4,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,,Vertical Application,INTU,1983,1987
+5,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,10.8,Vertical Application,INTU,1983,1988
+6,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,32.164,Vertical Application,INTU,1983,1989
+7,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,53.79,Vertical Application,INTU,1983,1990
+8,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,69.42,Vertical Application,INTU,1983,1991
+9,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,127.376,Vertical Application,INTU,1983,1992
+10,Intuit Inc.,Intuit,Hot Company,450.75,1,3070.97,195.216,Vertical Application,INTU,1983,1993
+0,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,0,Vertical Application,JDAS,1985,1985
+0,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,0,Vertical Application,LFT,1996,1996
+1,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,,Vertical Application,JDAS,1985,1986
+1,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,,Vertical Application,LFT,1996,1997
+2,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,,Vertical Application,JDAS,1985,1987
+2,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,,Vertical Application,LFT,1996,1998
+3,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,,Vertical Application,JDAS,1985,1988
+3,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,,Vertical Application,LFT,1996,1999
+4,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,,Vertical Application,JDAS,1985,1989
+4,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,,Vertical Application,LFT,1996,2000
+5,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,,Vertical Application,JDAS,1985,1990
+5,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,,Vertical Application,LFT,1996,2001
+6,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,15.0524,Vertical Application,JDAS,1985,1991
+6,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,,Vertical Application,LFT,1996,2002
+7,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,24.2805,Vertical Application,JDAS,1985,1992
+7,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,5.65,Vertical Application,LFT,1996,2003
+8,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,29.8719,Vertical Application,JDAS,1985,1993
+8,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,17.176,Vertical Application,LFT,1996,2004
+9,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,34.0755,Vertical Application,JDAS,1985,1994
+9,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,27.25,Vertical Application,LFT,1996,2005
+10,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,42.1176,Vertical Application,JDAS,1985,1995
+10,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,45.689,Vertical Application,LFT,1996,2006
+11,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,65.008,Vertical Application,JDAS,1985,1996
+11,Longtop Financial Technologies Limited,LongTop,Hot Company,4.22,1,65.92,69.368,Vertical Application,LFT,1996,2007
+12,"JDA Software Group, Inc.",JDA,Hot Company,6.23,1,390.33,122.878,Vertical Application,JDAS,1985,1997
+0,Mentor Graphics Corporation,Mentor Graphics,Rocket Ship,28.77,1,879.73,0,CAD / EDA,MENT,1981,1981
+1,Mentor Graphics Corporation,Mentor Graphics,Rocket Ship,28.77,1,879.73,3.74,CAD / EDA,MENT,1981,1982
+2,Mentor Graphics Corporation,Mentor Graphics,Rocket Ship,28.77,1,879.73,30.246,CAD / EDA,MENT,1981,1983
+3,Mentor Graphics Corporation,Mentor Graphics,Rocket Ship,28.77,1,879.73,198.44,CAD / EDA,MENT,1981,1984
+4,Mentor Graphics Corporation,Mentor Graphics,Rocket Ship,28.77,1,879.73,270.864,CAD / EDA,MENT,1981,1985
+5,Mentor Graphics Corporation,Mentor Graphics,Rocket Ship,28.77,1,879.73,336.59,CAD / EDA,MENT,1981,1986
+6,Mentor Graphics Corporation,Mentor Graphics,Rocket Ship,28.77,1,879.73,415.14,CAD / EDA,MENT,1981,1987
+0,"Autodesk, Inc.",Autodesk,Rocket Ship,356.2,1,2171.9,0,CAD / EDA,ADSK,1982,1982
+1,"Autodesk, Inc.",Autodesk,Rocket Ship,356.2,1,2171.9,0.0319,CAD / EDA,ADSK,1982,1983
+2,"Autodesk, Inc.",Autodesk,Rocket Ship,356.2,1,2171.9,2.255,CAD / EDA,ADSK,1982,1984
+3,"Autodesk, Inc.",Autodesk,Rocket Ship,356.2,1,2171.9,19.404,CAD / EDA,ADSK,1982,1985
+4,"Autodesk, Inc.",Autodesk,Rocket Ship,356.2,1,2171.9,52.38,CAD / EDA,ADSK,1982,1986
+5,"Autodesk, Inc.",Autodesk,Rocket Ship,356.2,1,2171.9,128.4609,CAD / EDA,ADSK,1982,1987
+6,"Autodesk, Inc.",Autodesk,Rocket Ship,356.2,1,2171.9,142.2,CAD / EDA,ADSK,1982,1988
+0,"Cadence Design Systems, Inc.",Cadence,Rocket Ship,-1854.04,1,1038.61,1.6614,CAD / EDA,CDNS,1983,1983
+0,"Synopsys, Inc.",Synopsys,Rocket Ship,189.98,1,1336.95,0,CAD / EDA,SNPS,1986,1986
+1,"Cadence Design Systems, Inc.",Cadence,Rocket Ship,-1854.04,1,1038.61,11.685,CAD / EDA,CDNS,1983,1984
+1,"Synopsys, Inc.",Synopsys,Rocket Ship,189.98,1,1336.95,0.2431,CAD / EDA,SNPS,1986,1987
+2,"Cadence Design Systems, Inc.",Cadence,Rocket Ship,-1854.04,1,1038.61,23.76,CAD / EDA,CDNS,1983,1985
+2,"Synopsys, Inc.",Synopsys,Rocket Ship,189.98,1,1336.95,1.746,CAD / EDA,SNPS,1986,1988
+3,"Cadence Design Systems, Inc.",Cadence,Rocket Ship,-1854.04,1,1038.61,32.204,CAD / EDA,CDNS,1983,1986
+3,"Synopsys, Inc.",Synopsys,Rocket Ship,189.98,1,1336.95,12.384,CAD / EDA,SNPS,1986,1989
+4,"Cadence Design Systems, Inc.",Cadence,Rocket Ship,-1854.04,1,1038.61,44.88,CAD / EDA,CDNS,1983,1987
+4,"Synopsys, Inc.",Synopsys,Rocket Ship,189.98,1,1336.95,35.86,CAD / EDA,SNPS,1986,1990
+5,"Cadence Design Systems, Inc.",Cadence,Rocket Ship,-1854.04,1,1038.61,141.48,CAD / EDA,CDNS,1983,1988
+5,"Synopsys, Inc.",Synopsys,Rocket Ship,189.98,1,1336.95,62.4,CAD / EDA,SNPS,1986,1991
+6,"Synopsys, Inc.",Synopsys,Rocket Ship,189.98,1,1336.95,139.384,CAD / EDA,SNPS,1986,1992
+0,"Verisign, Inc.",Verisign,Rocket Ship,88.3,1,961.74,0.5348,Communications,VRSN,1995,1995
+1,"Verisign, Inc.",Verisign,Rocket Ship,88.3,1,961.74,1.8442,Communications,VRSN,1995,1996
+2,"Verisign, Inc.",Verisign,Rocket Ship,88.3,1,961.74,17.897,Communications,VRSN,1995,1997
+3,"Verisign, Inc.",Verisign,Rocket Ship,88.3,1,961.74,51.3876,Communications,VRSN,1995,1998
+4,"Verisign, Inc.",Verisign,Rocket Ship,88.3,1,961.74,108.5133,Communications,VRSN,1995,1999
+0,Adobe Systems Inc.,Adobe,Rocket Ship,871.81,1,3579.89,0,Content Management,ADBE,1982,1982
+0,"Interwoven, Inc.",Interwoven,Rocket Ship,32.05,1,260.29,0,Content Management,IWOV,1995,1995
+1,Adobe Systems Inc.,Adobe,Rocket Ship,871.81,1,3579.89,,Content Management,ADBE,1982,1983
+1,"Interwoven, Inc.",Interwoven,Rocket Ship,32.05,1,260.29,,Content Management,IWOV,1995,1996
+2,Adobe Systems Inc.,Adobe,Rocket Ship,871.81,1,3579.89,4.51,Content Management,ADBE,1982,1984
+2,"Interwoven, Inc.",Interwoven,Rocket Ship,32.05,1,260.29,0.2144,Content Management,IWOV,1995,1997
+3,Adobe Systems Inc.,Adobe,Rocket Ship,871.81,1,3579.89,9.108,Content Management,ADBE,1982,1985
+3,"Interwoven, Inc.",Interwoven,Rocket Ship,32.05,1,260.29,5.28,Content Management,IWOV,1995,1998
+4,Adobe Systems Inc.,Adobe,Rocket Ship,871.81,1,3579.89,23.28,Content Management,ADBE,1982,1986
+4,"Interwoven, Inc.",Interwoven,Rocket Ship,32.05,1,260.29,21.504,Content Management,IWOV,1995,1999
+5,Adobe Systems Inc.,Adobe,Rocket Ship,871.81,1,3579.89,73.491,Content Management,ADBE,1982,1987
+5,"Interwoven, Inc.",Interwoven,Rocket Ship,32.05,1,260.29,163.68,Content Management,IWOV,1995,2000
+6,Adobe Systems Inc.,Adobe,Rocket Ship,871.81,1,3579.89,150.3,Content Management,ADBE,1982,1988
+0,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,0,CRM,CRM,1999,1999
+1,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,3.348,CRM,CRM,1999,2000
+2,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,6.588,CRM,CRM,1999,2001
+3,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,26.656,CRM,CRM,1999,2002
+4,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,57.63,CRM,CRM,1999,2003
+5,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,108.48,CRM,CRM,1999,2004
+6,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,192.276,CRM,CRM,1999,2005
+7,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,331.593,CRM,CRM,1999,2006
+8,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,516.984,CRM,CRM,1999,2007
+9,"salesforce.com, inc.",Salesforce,Rocket Ship,18.36,1,748.7,748.7,CRM,CRM,1999,2008
+0,"Sybase, Inc.",Sybase,Rocket Ship,138.57,1,1131.93,0,Database,SY,1984,1984
+1,"Sybase, Inc.",Sybase,Rocket Ship,138.57,1,1131.93,,Database,SY,1984,1985
+2,"Sybase, Inc.",Sybase,Rocket Ship,138.57,1,1131.93,2.134,Database,SY,1984,1986
+3,"Sybase, Inc.",Sybase,Rocket Ship,138.57,1,1131.93,11.22,Database,SY,1984,1987
+4,"Sybase, Inc.",Sybase,Rocket Ship,138.57,1,1131.93,43.2,Database,SY,1984,1988
+5,"Sybase, Inc.",Sybase,Rocket Ship,138.57,1,1131.93,98.556,Database,SY,1984,1989
+6,"Sybase, Inc.",Sybase,Rocket Ship,138.57,1,1131.93,167.89,Database,SY,1984,1990
+7,"Sybase, Inc.",Sybase,Rocket Ship,138.57,1,1131.93,248.82,Database,SY,1984,1991
+8,"Sybase, Inc.",Sybase,Rocket Ship,138.57,1,1131.93,402.8,Database,SY,1984,1992
+0,Activision Blizzard Inc,Activision,Rocket Ship,-107,1,3026,0,Entertainment,ATVI,1979,1979
+0,"China Digital TV Holding Co., Ltd.",China Digital,Rocket Ship,33.82,1,55.45,4.181,Entertainment,STV,2004,2004
+1,Activision Blizzard Inc,Activision,Rocket Ship,-107,1,3026,,Entertainment,ATVI,1979,1980
+1,"China Digital TV Holding Co., Ltd.",China Digital,Rocket Ship,33.82,1,55.45,14.279,Entertainment,STV,2004,2005
+2,Activision Blizzard Inc,Activision,Rocket Ship,-107,1,3026,14.508,Entertainment,ATVI,1979,1981
+2,"China Digital TV Holding Co., Ltd.",China Digital,Rocket Ship,33.82,1,55.45,32.528,Entertainment,STV,2004,2006
+3,Activision Blizzard Inc,Activision,Rocket Ship,-107,1,3026,145.2,Entertainment,ATVI,1979,1982
+3,"China Digital TV Holding Co., Ltd.",China Digital,Rocket Ship,33.82,1,55.45,57.72,Entertainment,STV,2004,2007
+4,Activision Blizzard Inc,Activision,Rocket Ship,-107,1,3026,336.54,Entertainment,ATVI,1979,1983
+0,"RealNetworks, Inc.",RealNetworks,Rocket Ship,-243.88,1,604.81,0,Entertainment,RNWK,1994,1994
+1,"RealNetworks, Inc.",RealNetworks,Rocket Ship,-243.88,1,604.81,2.52,Entertainment,RNWK,1994,1995
+2,"RealNetworks, Inc.",RealNetworks,Rocket Ship,-243.88,1,604.81,19.04,Entertainment,RNWK,1994,1996
+3,"RealNetworks, Inc.",RealNetworks,Rocket Ship,-243.88,1,604.81,48.642,Entertainment,RNWK,1994,1997
+4,"RealNetworks, Inc.",RealNetworks,Rocket Ship,-243.88,1,604.81,87.516,Entertainment,RNWK,1994,1998
+0,Electronic Arts Inc.,Electronic Arts,Rocket Ship,-454,1,3665,0,Entertainment,ERTS,1982,1982
+0,"Take-Two Interactive Software, Inc.",Take-Two,Rocket Ship,97.1,1,1537.53,0,Entertainment,TTWO,1993,1993
+1,Electronic Arts Inc.,Electronic Arts,Rocket Ship,-454,1,3665,,Entertainment,ERTS,1982,1983
+1,"Take-Two Interactive Software, Inc.",Take-Two,Rocket Ship,97.1,1,1537.53,3.289,Entertainment,TTWO,1993,1994
+2,Electronic Arts Inc.,Electronic Arts,Rocket Ship,-454,1,3665,,Entertainment,ERTS,1982,1984
+2,"Take-Two Interactive Software, Inc.",Take-Two,Rocket Ship,97.1,1,1537.53,8.4,Entertainment,TTWO,1993,1995
+3,Electronic Arts Inc.,Electronic Arts,Rocket Ship,-454,1,3665,22.176,Entertainment,ERTS,1982,1985
+3,"Take-Two Interactive Software, Inc.",Take-Two,Rocket Ship,97.1,1,1537.53,15.096,Entertainment,TTWO,1993,1996
+4,Electronic Arts Inc.,Electronic Arts,Rocket Ship,-454,1,3665,32.204,Entertainment,ERTS,1982,1986
+4,"Take-Two Interactive Software, Inc.",Take-Two,Rocket Ship,97.1,1,1537.53,25.46,Entertainment,TTWO,1993,1997
+5,Electronic Arts Inc.,Electronic Arts,Rocket Ship,-454,1,3665,56.1,Entertainment,ERTS,1982,1987
+5,"Take-Two Interactive Software, Inc.",Take-Two,Rocket Ship,97.1,1,1537.53,252.12,Entertainment,TTWO,1993,1998
+6,Electronic Arts Inc.,Electronic Arts,Rocket Ship,-454,1,3665,90,Entertainment,ERTS,1982,1988
+7,Electronic Arts Inc.,Electronic Arts,Rocket Ship,-454,1,3665,109.22,Entertainment,ERTS,1982,1989
+0,Taleo Corporation,Teleo,Rocket Ship,3.88,1,127.94,0,ERP,TLEO,1999,1999
+1,Taleo Corporation,Teleo,Rocket Ship,3.88,1,127.94,2.7677,ERP,TLEO,1999,2000
+2,Taleo Corporation,Teleo,Rocket Ship,3.88,1,127.94,15.3073,ERP,TLEO,1999,2001
+3,Taleo Corporation,Teleo,Rocket Ship,3.88,1,127.94,33.7817,ERP,TLEO,1999,2002
+4,Taleo Corporation,Teleo,Rocket Ship,3.88,1,127.94,49.3075,ERP,TLEO,1999,2003
+5,Taleo Corporation,Teleo,Rocket Ship,3.88,1,127.94,66.2745,ERP,TLEO,1999,2004
+6,Taleo Corporation,Teleo,Rocket Ship,3.88,1,127.94,85.456,ERP,TLEO,1999,2005
+0,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,0,Network / Infrastructure/ EAI,RAX,1998,1998
+1,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,,Network / Infrastructure/ EAI,RAX,1998,1999
+2,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,,Network / Infrastructure/ EAI,RAX,1998,2000
+3,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,,Network / Infrastructure/ EAI,RAX,1998,2001
+4,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,,Network / Infrastructure/ EAI,RAX,1998,2002
+5,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,63.9704,Network / Infrastructure/ EAI,RAX,1998,2003
+6,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,98.0422,Network / Infrastructure/ EAI,RAX,1998,2004
+7,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,151.2571,Network / Infrastructure/ EAI,RAX,1998,2005
+8,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,239.6436,Network / Infrastructure/ EAI,RAX,1998,2006
+9,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,376.4977,Network / Infrastructure/ EAI,RAX,1998,2007
+10,"Rackspace Hosting, Inc.",Rackspace,Rocket Ship,21.7,1,531.93,531.9,Network / Infrastructure/ EAI,RAX,1998,2008
+0,OpenTV Corp.,OpenTV,Rocket Ship,9.61,1,116.47,1.3845,Operating Systems,OPTV,1996,1996
+1,OpenTV Corp.,OpenTV,Rocket Ship,9.61,1,116.47,9.3251,Operating Systems,OPTV,1996,1997
+2,OpenTV Corp.,OpenTV,Rocket Ship,9.61,1,116.47,12.4978,Operating Systems,OPTV,1996,1998
+3,OpenTV Corp.,OpenTV,Rocket Ship,9.61,1,116.47,7.8285,Operating Systems,OPTV,1996,1999
+4,OpenTV Corp.,OpenTV,Rocket Ship,9.61,1,116.47,21.7707,Operating Systems,OPTV,1996,2000
+5,OpenTV Corp.,OpenTV,Rocket Ship,9.61,1,116.47,106.018,Operating Systems,OPTV,1996,2001
+0,Check Point Software Technologies Ltd.,Checkpoint,Rocket Ship,323.97,1,808.49,0,Security,CHKP,1993,1993
+1,Check Point Software Technologies Ltd.,Checkpoint,Rocket Ship,323.97,1,808.49,1.1354,Security,CHKP,1993,1994
+2,Check Point Software Technologies Ltd.,Checkpoint,Rocket Ship,323.97,1,808.49,13.3,Security,CHKP,1993,1995
+3,Check Point Software Technologies Ltd.,Checkpoint,Rocket Ship,323.97,1,808.49,47.056,Security,CHKP,1993,1996
+4,Check Point Software Technologies Ltd.,Checkpoint,Rocket Ship,323.97,1,808.49,115.642,Security,CHKP,1993,1997
+0,"McAfee, Inc.",McAfee,Rocket Ship,172.21,1,1600.06,0.0998,Security,MFE,1989,1989
+1,"McAfee, Inc.",McAfee,Rocket Ship,172.21,1,1600.06,2.608,Security,MFE,1989,1990
+2,"McAfee, Inc.",McAfee,Rocket Ship,172.21,1,1600.06,10.764,Security,MFE,1989,1991
+3,"McAfee, Inc.",McAfee,Rocket Ship,172.21,1,1600.06,31.616,Security,MFE,1989,1992
+4,"McAfee, Inc.",McAfee,Rocket Ship,172.21,1,1600.06,45.57,Security,MFE,1989,1993
+5,"McAfee, Inc.",McAfee,Rocket Ship,172.21,1,1600.06,74.36,Security,MFE,1989,1994
+6,"McAfee, Inc.",McAfee,Rocket Ship,172.21,1,1600.06,126,Security,MFE,1989,1995
+0,Cognizant Technology Solutions Corp.,Cognizant,Rocket Ship,430.84,1,2816.3,2.4124,Services,CTSH,1994,1994
+1,Cognizant Technology Solutions Corp.,Cognizant,Rocket Ship,430.84,1,2816.3,10.045,Services,CTSH,1994,1995
+2,Cognizant Technology Solutions Corp.,Cognizant,Rocket Ship,430.84,1,2816.3,16.3635,Services,CTSH,1994,1996
+3,Cognizant Technology Solutions Corp.,Cognizant,Rocket Ship,430.84,1,2816.3,33.157,Services,CTSH,1994,1997
+4,Cognizant Technology Solutions Corp.,Cognizant,Rocket Ship,430.84,1,2816.3,77.352,Services,CTSH,1994,1998
+0,"Novell, Inc.",Novell,Rocket Ship,-12.34,1,956.51,8.094,Systems Management,NOVL,1983,1983
+1,"Novell, Inc.",Novell,Rocket Ship,-12.34,1,956.51,22.14,Systems Management,NOVL,1983,1984
+2,"Novell, Inc.",Novell,Rocket Ship,-12.34,1,956.51,66,Systems Management,NOVL,1983,1985
+3,"Novell, Inc.",Novell,Rocket Ship,-12.34,1,956.51,,Systems Management,NOVL,1983,1986
+4,"Novell, Inc.",Novell,Rocket Ship,-12.34,1,956.51,414.766,Systems Management,NOVL,1983,1987
+5,"Novell, Inc.",Novell,Rocket Ship,-12.34,1,956.51,624.6,Systems Management,NOVL,1983,1988
+0,Blackboard Inc.,Blackboard,Rocket Ship,2.82,1,312.13,0,Vertical Application,BBBB,1997,1997
+0,"MedAssets, Inc.",MedAssets,Rocket Ship,-9.8,1,188.52,0,Vertical Application,MDAS,1999,1999
+1,Blackboard Inc.,Blackboard,Rocket Ship,2.82,1,312.13,1.254,Vertical Application,BBBB,1997,1998
+1,"MedAssets, Inc.",MedAssets,Rocket Ship,-9.8,1,188.52,,Vertical Application,MDAS,1999,2000
+2,Blackboard Inc.,Blackboard,Rocket Ship,2.82,1,312.13,2.432,Vertical Application,BBBB,1997,1999
+2,"MedAssets, Inc.",MedAssets,Rocket Ship,-9.8,1,188.52,,Vertical Application,MDAS,1999,2001
+3,Blackboard Inc.,Blackboard,Rocket Ship,2.82,1,312.13,14.88,Vertical Application,BBBB,1997,2000
+3,"MedAssets, Inc.",MedAssets,Rocket Ship,-9.8,1,188.52,43.554,Vertical Application,MDAS,1999,2002
+4,Blackboard Inc.,Blackboard,Rocket Ship,2.82,1,312.13,56.974,Vertical Application,BBBB,1997,2001
+4,"MedAssets, Inc.",MedAssets,Rocket Ship,-9.8,1,188.52,62.602,Vertical Application,MDAS,1999,2003
+5,Blackboard Inc.,Blackboard,Rocket Ship,2.82,1,312.13,83.181,Vertical Application,BBBB,1997,2002
+5,"MedAssets, Inc.",MedAssets,Rocket Ship,-9.8,1,188.52,85.202,Vertical Application,MDAS,1999,2004
+6,Blackboard Inc.,Blackboard,Rocket Ship,2.82,1,312.13,104.525,Vertical Application,BBBB,1997,2003
+6,"MedAssets, Inc.",MedAssets,Rocket Ship,-9.8,1,188.52,107.474,Vertical Application,MDAS,1999,2005
+7,Blackboard Inc.,Blackboard,Rocket Ship,2.82,1,312.13,125.882,Vertical Application,BBBB,1997,2004
+7,"MedAssets, Inc.",MedAssets,Rocket Ship,-9.8,1,188.52,156.434,Vertical Application,MDAS,1999,2006
+8,"MedAssets, Inc.",MedAssets,Rocket Ship,-9.8,1,188.52,196.04,Vertical Application,MDAS,1999,2007
+0,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,0,Business Intelligence,SPSS,1975,1975
+1,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1976
+2,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1977
+3,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1978
+4,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1979
+5,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1980
+6,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1981
+7,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1982
+8,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1983
+9,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1984
+10,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1985
+11,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1986
+12,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,,Business Intelligence,SPSS,1975,1987
+13,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,51.84,Business Intelligence,SPSS,1975,1988
+14,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,51.772,Business Intelligence,SPSS,1975,1989
+15,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,54.931,Business Intelligence,SPSS,1975,1990
+16,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,53.82,Business Intelligence,SPSS,1975,1991
+17,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,57.456,Business Intelligence,SPSS,1975,1992
+18,SPSS Inc.,SPSS,Slow Burner,36.05,1,302.91,76.587,Business Intelligence,SPSS,1975,1993
+0,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,0,Business Intelligence,PEGA,1983,1983
+1,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,,Business Intelligence,PEGA,1983,1984
+2,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,,Business Intelligence,PEGA,1983,1985
+3,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,,Business Intelligence,PEGA,1983,1986
+4,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,,Business Intelligence,PEGA,1983,1987
+5,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,,Business Intelligence,PEGA,1983,1988
+6,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,,Business Intelligence,PEGA,1983,1989
+7,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,,Business Intelligence,PEGA,1983,1990
+8,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,12.143,Business Intelligence,PEGA,1983,1991
+9,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,13.6238,Business Intelligence,PEGA,1983,1992
+10,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,15.0116,Business Intelligence,PEGA,1983,1993
+11,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,23.2561,Business Intelligence,PEGA,1983,1994
+12,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,31.1458,Business Intelligence,PEGA,1983,1995
+13,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,45.56,Business Intelligence,PEGA,1983,1996
+14,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,59.362,Business Intelligence,PEGA,1983,1997
+15,Pegasystems Inc.,Pegasystems,Slow Burner,6.6,1,161.95,81.444,Business Intelligence,PEGA,1983,1998
+0,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,0,CAD / EDA,MSCS,1963,1963
+1,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1964
+2,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1965
+3,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1966
+4,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1967
+5,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1968
+6,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1969
+7,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1970
+8,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1971
+9,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1972
+10,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1973
+11,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1974
+12,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1975
+13,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1976
+14,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1977
+15,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1978
+16,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,8.204,CAD / EDA,MSCS,1963,1979
+17,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,10.578,CAD / EDA,MSCS,1963,1980
+18,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,12.87,CAD / EDA,MSCS,1963,1981
+19,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,15.62,CAD / EDA,MSCS,1963,1982
+20,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,19.596,CAD / EDA,MSCS,1963,1983
+21,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1984
+22,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,39.402,CAD / EDA,MSCS,1963,1985
+23,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,,CAD / EDA,MSCS,1963,1986
+24,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,50.49,CAD / EDA,MSCS,1963,1987
+25,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,62.1,CAD / EDA,MSCS,1963,1988
+26,MSC Software Corp.,MSC Software,Slow Burner,-2.6,1,246.65,68.456,CAD / EDA,MSCS,1963,1989
+0,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,0,CAD / EDA,ANSS,1970,1970
+1,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1971
+2,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1972
+3,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1973
+4,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1974
+5,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1975
+6,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1976
+7,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1977
+8,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1978
+9,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1979
+10,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1980
+11,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1981
+12,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1982
+13,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1983
+14,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1984
+15,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1985
+16,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1986
+17,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1987
+18,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1988
+19,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1989
+20,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,,CAD / EDA,ANSS,1970,1990
+21,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,43.524,CAD / EDA,ANSS,1970,1991
+22,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,46.2959,CAD / EDA,ANSS,1970,1992
+23,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,46.452,CAD / EDA,ANSS,1970,1993
+24,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,46.904,CAD / EDA,ANSS,1970,1994
+25,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,55.44,CAD / EDA,ANSS,1970,1995
+26,"ANSYS, Inc.",ANSYS,Slow Burner,82.39,1,385.34,63.92,CAD / EDA,ANSS,1970,1996
+0,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,0,Communications,TSYS,1987,1987
+1,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,,Communications,TSYS,1987,1988
+2,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,,Communications,TSYS,1987,1989
+3,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,,Communications,TSYS,1987,1990
+4,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,,Communications,TSYS,1987,1991
+5,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,,Communications,TSYS,1987,1992
+6,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,,Communications,TSYS,1987,1993
+7,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,,Communications,TSYS,1987,1994
+8,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,29.26,Communications,TSYS,1987,1995
+9,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,39.168,Communications,TSYS,1987,1996
+10,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,37.252,Communications,TSYS,1987,1997
+11,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,33,Communications,TSYS,1987,1998
+12,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,58.624,Communications,TSYS,1987,1999
+13,"TeleCommunication Systems, Inc.",TeleCom Systems,Slow Burner,57.57,1,220.14,71.92,Communications,TSYS,1987,2000
+0,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,0,Content Management,MVSN,1983,1983
+1,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,,Content Management,MVSN,1983,1984
+2,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,,Content Management,MVSN,1983,1985
+3,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,,Content Management,MVSN,1983,1986
+4,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,,Content Management,MVSN,1983,1987
+5,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,,Content Management,MVSN,1983,1988
+6,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,,Content Management,MVSN,1983,1989
+7,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,,Content Management,MVSN,1983,1990
+8,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,,Content Management,MVSN,1983,1991
+9,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,,Content Management,MVSN,1983,1992
+10,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,14.037,Content Management,MVSN,1983,1993
+11,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,19.0619,Content Management,MVSN,1983,1994
+12,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,19.8646,Content Management,MVSN,1983,1995
+13,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,23.2288,Content Management,MVSN,1983,1996
+14,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,41.54,Content Management,MVSN,1983,1997
+15,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,48.18,Content Management,MVSN,1983,1998
+16,Macrovision Solutions Corporation,Macrovision,Slow Burner,20.92,1,330.04,66.56,Content Management,MVSN,1983,1999
+0,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,0,ERP,DLTK,1983,1983
+1,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,,ERP,DLTK,1983,1984
+2,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,,ERP,DLTK,1983,1985
+3,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,,ERP,DLTK,1983,1986
+4,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,,ERP,DLTK,1983,1987
+5,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,,ERP,DLTK,1983,1988
+6,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,,ERP,DLTK,1983,1989
+7,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,,ERP,DLTK,1983,1990
+8,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,21.528,ERP,DLTK,1983,1991
+9,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,27.056,ERP,DLTK,1983,1992
+10,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,28.518,ERP,DLTK,1983,1993
+11,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,30.602,ERP,DLTK,1983,1994
+12,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,37.52,ERP,DLTK,1983,1995
+13,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,47.328,ERP,DLTK,1983,1996
+14,Deltek Inc.,Deltek,Slow Burner,23.52,1,289.36,65.392,ERP,DLTK,1983,1997
+0,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,0,Network / Infrastructure/ EAI,OPNT,1986,1986
+1,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,,Network / Infrastructure/ EAI,OPNT,1986,1987
+2,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,,Network / Infrastructure/ EAI,OPNT,1986,1988
+3,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,,Network / Infrastructure/ EAI,OPNT,1986,1989
+4,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,,Network / Infrastructure/ EAI,OPNT,1986,1990
+5,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,,Network / Infrastructure/ EAI,OPNT,1986,1991
+6,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,,Network / Infrastructure/ EAI,OPNT,1986,1992
+7,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,,Network / Infrastructure/ EAI,OPNT,1986,1993
+8,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,,Network / Infrastructure/ EAI,OPNT,1986,1994
+9,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,,Network / Infrastructure/ EAI,OPNT,1986,1995
+10,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,8.145,Network / Infrastructure/ EAI,OPNT,1986,1996
+11,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,11.5441,Network / Infrastructure/ EAI,OPNT,1986,1997
+12,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,15.7463,Network / Infrastructure/ EAI,OPNT,1986,1998
+13,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,15.3638,Network / Infrastructure/ EAI,OPNT,1986,1999
+14,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,23.8514,Network / Infrastructure/ EAI,OPNT,1986,2000
+15,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,40.138,Network / Infrastructure/ EAI,OPNT,1986,2001
+16,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,53.312,Network / Infrastructure/ EAI,OPNT,1986,2002
+17,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,52.545,Network / Infrastructure/ EAI,OPNT,1986,2003
+18,"OPNET Technologies, Inc.",OPNET,Slow Burner,0.53,1,101.35,63.845,Network / Infrastructure/ EAI,OPNT,1986,2004
+0,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,0,Operating Systems,WIND,1983,1983
+1,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,,Operating Systems,WIND,1983,1984
+2,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,,Operating Systems,WIND,1983,1985
+3,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,,Operating Systems,WIND,1983,1986
+4,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,,Operating Systems,WIND,1983,1987
+5,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,,Operating Systems,WIND,1983,1988
+6,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,2.58,Operating Systems,WIND,1983,1989
+7,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,6.194,Operating Systems,WIND,1983,1990
+8,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,12.48,Operating Systems,WIND,1983,1991
+9,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,25.84,Operating Systems,WIND,1983,1992
+10,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,36.75,Operating Systems,WIND,1983,1993
+11,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,39.039,Operating Systems,WIND,1983,1994
+12,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,44.94,Operating Systems,WIND,1983,1995
+13,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,59.84,Operating Systems,WIND,1983,1996
+14,"Wind River Systems, Inc.",Wind River,Slow Burner,-2.36,1,328.63,85.76,Operating Systems,WIND,1983,1997
+0,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,0,Operating Systems,SYNA,1986,1986
+1,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1987
+2,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1988
+3,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1989
+4,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1990
+5,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1991
+6,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1992
+7,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1993
+8,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1994
+9,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1995
+10,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,,Operating Systems,SYNA,1986,1996
+11,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,39.463,Operating Systems,SYNA,1986,1997
+12,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,30.5804,Operating Systems,SYNA,1986,1998
+13,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,38.1978,Operating Systems,SYNA,1986,1999
+14,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,53.8743,Operating Systems,SYNA,1986,2000
+15,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,89.9116,Operating Systems,SYNA,1986,2001
+16,"Synaptics, Incorporated",Synaptics,Slow Burner,31.1,1,361.06,119,Operating Systems,SYNA,1986,2002
+0,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,0,Security,VDSI,1991,1991
+1,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,3.496,Security,VDSI,1991,1992
+2,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,3.234,Security,VDSI,1991,1993
+3,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,3.861,Security,VDSI,1991,1994
+4,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,5.18,Security,VDSI,1991,1995
+5,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,13.736,Security,VDSI,1991,1996
+6,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,17.6987,Security,VDSI,1991,1997
+7,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,21.78,Security,VDSI,1991,1998
+8,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,24.8282,Security,VDSI,1991,1999
+9,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,34.72,Security,VDSI,1991,2000
+10,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,32.574,Security,VDSI,1991,2001
+11,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,22.491,Security,VDSI,1991,2002
+12,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,25.877,Security,VDSI,1991,2003
+13,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,33.787,Security,VDSI,1991,2004
+14,"VASCO Data Security International, Inc.",VASCO,Slow Burner,24.29,1,132.98,59.514,Security,VDSI,1991,2005
+0,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,0,Services,VIT,1995,1995
+1,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,,Services,VIT,1995,1996
+2,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,,Services,VIT,1995,1997
+3,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,,Services,VIT,1995,1998
+4,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,,Services,VIT,1995,1999
+5,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,,Services,VIT,1995,2000
+6,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,,Services,VIT,1995,2001
+7,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,,Services,VIT,1995,2002
+8,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,,Services,VIT,1995,2003
+9,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,9.153,Services,VIT,1995,2004
+10,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,16.895,Services,VIT,1995,2005
+11,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,31.03,Services,VIT,1995,2006
+12,VanceInfo Technologies Inc.,VanceInfo,Slow Burner,16.17,1,102.66,65.208,Services,VIT,1995,2007
+0,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,0,Services,CBR,1974,1974
+1,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1975
+2,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1976
+3,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1977
+4,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1978
+5,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1979
+6,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1980
+7,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1981
+8,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1982
+9,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1983
+10,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1984
+11,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1985
+12,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1986
+13,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1987
+14,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,,Services,CBR,1974,1988
+15,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,30.96,Services,CBR,1974,1989
+16,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,36.023,Services,CBR,1974,1990
+17,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,43.212,Services,CBR,1974,1991
+18,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,46.816,Services,CBR,1974,1992
+19,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,55.125,Services,CBR,1974,1993
+20,"CIBER, Inc.",CIBER,Slow Burner,29.96,1,1191.57,114.114,Services,CBR,1974,1994
+0,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,0,Systems Management,QSFT,1987,1987
+1,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,,Systems Management,QSFT,1987,1988
+2,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,,Systems Management,QSFT,1987,1989
+3,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,,Systems Management,QSFT,1987,1990
+4,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,,Systems Management,QSFT,1987,1991
+5,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,,Systems Management,QSFT,1987,1992
+6,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,,Systems Management,QSFT,1987,1993
+7,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,8.131,Systems Management,QSFT,1987,1994
+8,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,13.3336,Systems Management,QSFT,1987,1995
+9,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,17.4923,Systems Management,QSFT,1987,1996
+10,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,24.5421,Systems Management,QSFT,1987,1997
+11,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,45.9228,Systems Management,QSFT,1987,1998
+12,"Quest Software, Inc.",Quest,Slow Burner,67.85,1,735.38,90.624,Systems Management,QSFT,1987,1999
+0,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,0,Vertical Application,RLRN,1986,1986
+1,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,,Vertical Application,RLRN,1986,1987
+2,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,,Vertical Application,RLRN,1986,1988
+3,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,,Vertical Application,RLRN,1986,1989
+4,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,,Vertical Application,RLRN,1986,1990
+5,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,,Vertical Application,RLRN,1986,1991
+6,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,4.8199,Vertical Application,RLRN,1986,1992
+7,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,7.7734,Vertical Application,RLRN,1986,1993
+8,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,11.7989,Vertical Application,RLRN,1986,1994
+9,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,17.647,Vertical Application,RLRN,1986,1995
+10,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,30.4382,Vertical Application,RLRN,1986,1996
+11,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,48.642,Vertical Application,RLRN,1986,1997
+12,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,72.732,Vertical Application,RLRN,1986,1998
+13,"Renaissance Learning, Inc.",Renaissance Learning,Slow Burner,7.57,1,107.93,106.88,Vertical Application,RLRN,1986,1999
+0,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,0,Vertical Application,NATI,1976,1976
+0,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,0,Vertical Application,MCRS,1977,1977
+1,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1977
+1,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,4.578,Vertical Application,MCRS,1977,1978
+2,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1978
+2,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,12.306,Vertical Application,MCRS,1977,1979
+3,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1979
+3,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,17.286,Vertical Application,MCRS,1977,1980
+4,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1980
+4,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,21.294,Vertical Application,MCRS,1977,1981
+5,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1981
+5,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,,Vertical Application,MCRS,1977,1982
+6,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1982
+6,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,32.589,Vertical Application,MCRS,1977,1983
+7,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1983
+7,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,,Vertical Application,MCRS,1977,1984
+8,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1984
+8,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,,Vertical Application,MCRS,1977,1985
+9,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1985
+9,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,,Vertical Application,MCRS,1977,1986
+10,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1986
+10,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,,Vertical Application,MCRS,1977,1987
+11,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1987
+11,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,,Vertical Application,MCRS,1977,1988
+12,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,,Vertical Application,NATI,1976,1988
+12,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,43.86,Vertical Application,MCRS,1977,1989
+13,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,53.492,Vertical Application,NATI,1976,1989
+13,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,57.376,Vertical Application,MCRS,1977,1990
+14,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,72.861,Vertical Application,NATI,1976,1990
+14,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,61.776,Vertical Application,MCRS,1977,1991
+15,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,92.82,Vertical Application,NATI,1976,1991
+15,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,67.336,Vertical Application,MCRS,1977,1992
+16,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,125.856,Vertical Application,NATI,1976,1992
+16,"MICROS Systems, Inc.",MICROS,Slow Burner,100.64,1,954.18,81.291,Vertical Application,MCRS,1977,1993
+17,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,155.085,Vertical Application,NATI,1976,1993
+18,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,181.61,Vertical Application,NATI,1976,1994
+19,National Instruments Corp,National Instruments,Slow Burner,107.03,1,740.38,231,Vertical Application,NATI,1976,1995
+0,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,0,Vertical Application,ADVS,1983,1983
+1,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,,Vertical Application,ADVS,1983,1984
+2,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,,Vertical Application,ADVS,1983,1985
+3,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,,Vertical Application,ADVS,1983,1986
+4,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,,Vertical Application,ADVS,1983,1987
+5,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,,Vertical Application,ADVS,1983,1988
+6,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,,Vertical Application,ADVS,1983,1989
+7,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,7.824,Vertical Application,ADVS,1983,1990
+8,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,9.828,Vertical Application,ADVS,1983,1991
+9,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,16.112,Vertical Application,ADVS,1983,1992
+10,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,24.549,Vertical Application,ADVS,1983,1993
+11,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,28.743,Vertical Application,ADVS,1983,1994
+12,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,36.4,Vertical Application,ADVS,1983,1995
+13,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,49.912,Vertical Application,ADVS,1983,1996
+14,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,65.124,Vertical Application,ADVS,1983,1997
+15,"Advent Software, Inc.",Advent,Slow Burner,18.9,1,264,93.72,Vertical Application,ADVS,1983,1998
+0,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,0,Vertical Application,EPIQ,1988,1988
+1,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,,Vertical Application,EPIQ,1988,1989
+2,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,,Vertical Application,EPIQ,1988,1990
+3,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,,Vertical Application,EPIQ,1988,1991
+4,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,,Vertical Application,EPIQ,1988,1992
+5,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,,Vertical Application,EPIQ,1988,1993
+6,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,7.007,Vertical Application,EPIQ,1988,1994
+7,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,7.28,Vertical Application,EPIQ,1988,1995
+8,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,8.568,Vertical Application,EPIQ,1988,1996
+9,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,11.122,Vertical Application,EPIQ,1988,1997
+10,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,15.18,Vertical Application,EPIQ,1988,1998
+11,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,18.944,Vertical Application,EPIQ,1988,1999
+12,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,28.768,Vertical Application,EPIQ,1988,2000
+13,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,36.722,Vertical Application,EPIQ,1988,2001
+14,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,43.078,Vertical Application,EPIQ,1988,2002
+15,"EPIQ Systems, Inc.",EPIQ,Slow Burner,13.84,1,236.12,76.727,Vertical Application,EPIQ,1988,2003
+0,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,0,Vertical Application,BLKB,1982,1982
+1,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1983
+2,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1984
+3,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1985
+4,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1986
+5,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1987
+6,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1988
+7,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1989
+8,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1990
+9,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1991
+10,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1992
+11,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1993
+12,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1994
+13,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1995
+14,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1996
+15,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,,Vertical Application,BLKB,1982,1997
+16,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,86.6342,Vertical Application,BLKB,1982,1998
+17,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,118.3706,Vertical Application,BLKB,1982,1999
+18,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,103.6851,Vertical Application,BLKB,1982,2000
+19,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,109.8415,Vertical Application,BLKB,1982,2001
+20,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,125.2225,Vertical Application,BLKB,1982,2002
+21,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,133.4451,Vertical Application,BLKB,1982,2003
+22,"Blackbaud, Inc.",Blackbaud,Slow Burner,29.88,1,302.5,156.731,Vertical Application,BLKB,1982,2004
+0,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,0,Vertical Application,RTLX,1982,1982
+1,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1983
+2,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1984
+3,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1985
+4,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1986
+5,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1987
+6,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1988
+7,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1989
+8,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1990
+9,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1991
+10,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,,Vertical Application,RTLX,1982,1992
+11,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,2.499,Vertical Application,RTLX,1982,1993
+12,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,4.576,Vertical Application,RTLX,1982,1994
+13,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,5.04,Vertical Application,RTLX,1982,1995
+14,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,8.84,Vertical Application,RTLX,1982,1996
+15,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,15.008,Vertical Application,RTLX,1982,1997
+16,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,21.8677,Vertical Application,RTLX,1982,1998
+17,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,31.744,Vertical Application,RTLX,1982,1999
+18,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,44.64,Vertical Application,RTLX,1982,2000
+19,Retalix Limited,Retalix,Slow Burner,-0.5,1,221.41,72.2045,Vertical Application,RTLX,1982,2001
+0,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,0,Vertical Application,QSII,1974,1974
+1,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1975
+2,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1976
+3,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1977
+4,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,0.1962,Vertical Application,QSII,1974,1978
+5,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,3.809,Vertical Application,QSII,1974,1979
+6,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,7.482,Vertical Application,QSII,1974,1980
+7,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,11.934,Vertical Application,QSII,1974,1981
+8,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,15.18,Vertical Application,QSII,1974,1982
+9,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1983
+10,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1984
+11,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1985
+12,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1986
+13,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1987
+14,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1988
+15,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1989
+16,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,,Vertical Application,QSII,1974,1990
+17,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,20.475,Vertical Application,QSII,1974,1991
+18,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,17.7992,Vertical Application,QSII,1974,1992
+19,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,17.127,Vertical Application,QSII,1974,1993
+20,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,16.8054,Vertical Application,QSII,1974,1994
+21,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,16.8686,Vertical Application,QSII,1974,1995
+22,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,22.712,Vertical Application,QSII,1974,1996
+23,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,26.9702,Vertical Application,QSII,1974,1997
+24,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,41.2051,Vertical Application,QSII,1974,1998
+25,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,43.2845,Vertical Application,QSII,1974,1999
+26,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,45.1025,Vertical Application,QSII,1974,2000
+27,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,48.7219,Vertical Application,QSII,1974,2001
+28,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,52.836,Vertical Application,QSII,1974,2002
+29,"Quality Systems, Inc.",Quality Systems,Slow Burner,40.08,1,186.5,61.924,Vertical Application,QSII,1974,2003
