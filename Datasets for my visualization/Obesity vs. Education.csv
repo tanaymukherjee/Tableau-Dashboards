@@ -1,0 +1,53 @@
+﻿Ba Or Higher,Color,Sort,Number of Records,Obesity %,State Abbr,State
+22.3,False,-9.9,1,32.2,AL,Alabama
+25.5,True,1,1,24.5,AK,Alaska
+28,True,3.7,1,24.3,AZ,Arizona
+18.8,False,-11.3,1,30.1,AR,Arkansas
+31.7,True,7.7,1,24,CA,California
+35.5,True,14.5,1,21,CO,Colorado
+34.5,True,12,1,22.5,CT,Connecticut
+26.9,False,-1.1,1,28,DE,Delaware
+45.7,True,23.5,1,22.2,DC,District of Columbia
+26,False,-0.600000000,1,26.6,FL,Florida
+27.6,False,-2,1,29.6,GA,Georgia
+26.6,True,3.9,1,22.7,HI,Hawaii
+23.8,False,-2.7,1,26.5,ID,Idaho
+27.4,False,-0.800000000,1,28.2,IL,Illinois
+21.1,False,-8.5,1,29.6,IN,Indiana
+24.3,False,-4.1,1,28.4,IA,Iowa
+30,True,0.600000000,1,29.4,KS,Kansas
+21,False,-10.3,1,31.3,KY,Kentucky
+22.4,False,-8.6,1,31,LA,Louisiana
+24.2,False,-2.6,1,26.8,ME,Maine
+35.2,True,8.1,1,27.1,MD,Maryland
+36.7,True,13.7,1,23,MA,Massachusetts
+24.4,False,-6.5,1,30.9,MI,Michigan
+32.5,True,7.7,1,24.8,MN,Minnesota
+20.1,False,-13.9,1,34,MS,Mississippi
+28.1,False,-2.4,1,30.5,MO,Missouri
+25.5,True,2.5,1,23,MT,Montana
+24.8,False,-2.1,1,26.9,NE,Nebraska
+24.5,True,2.1,1,22.4,NV,Nevada
+35.4,True,10.4,1,25,NH,New Hampshire
+34.6,True,10.8,1,23.8,NJ,New Jersey
+25.1,False,0,1,25.1,NM,New Mexico
+30.6,True,6.7,1,23.9,NY,New York
+23.4,False,-4.4,1,27.8,NC,North Carolina
+25.2,False,-2,1,27.2,ND,North Dakota
+24.6,False,-4.6,1,29.2,OH,Ohio
+22.9,False,-7.5,1,30.4,OK,Oklahoma
+25.9,False,-0.900000000,1,26.8,OR,Oregon
+25.3,False,-3.3,1,28.6,PA,Pennsylvania
+27.2,True,1.7,1,25.5,RI,Rhode Island
+24.9,False,-6.6,1,31.5,SC,South Carolina
+25.5,False,-1.8,1,27.3,SD,South Dakota
+24.3,False,-6.5,1,30.8,TN,Tennessee
+24.5,False,-6.5,1,31,TX,Texas
+30.8,True,8.3,1,22.5,UT,Utah
+34.2,True,11,1,23.2,VA,Vermont
+33.1,True,7.1,1,26,VT,Virginia
+29.9,True,4.4,1,25.5,WA,Washington
+15.3,False,-17.2,1,32.5,WV,West Virginia
+25.6,False,-0.700000000,1,26.3,WI,Wisconsin
+22.5,False,-2.6,1,25.1,WY,Wyoming
+27.174509804,True,0.184313725,1,26.990196078,AVG,Average
