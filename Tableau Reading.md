@@ -32,3 +32,10 @@ There are few things that one must learn to be exhibit strong hands-on with Tabl
 1. [Tableau Demo videos](https://www.tableau.com/learn/training/20201)
 2. [Tableau Fundamentals](https://elearning.tableau.com/desktop-i-fundamentals)
 3. [Different Tableau Learning Paths and Courses](https://elearning.tableau.com/?_ga=2.215159764.239192778.1592863785-412560178.1584824755)
+
+## Inspirations:
+There are so many wonderful people out there on the internet who have helped me improve myself as a visualization expert. In some cases I have just copied their work for analysis and replicated it and even then it didn't come out as nice as they had it. However, I tried to replicate it as close as possible and have shared the work on my profile. Some of them are just ditto copies as I was able to understand what they did but couldn't copy it exactly in terms of look and feel.
+
+The ones which really touched me in terms of the visualization, but beyond me to replicate but I want to keep them for reference are shared in 'Other Visualizations' folder.
+
+There are so many brillaint minds out there but I would like to particularly thank Lorna and Andy for their great work and thus providing a path for others to follow.
